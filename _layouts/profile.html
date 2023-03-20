@@ -1,0 +1,38 @@
+---
+layout: article
+type: profile
+---
+<div class="grid">
+    <div class="cell cell--4">
+        <div class="item_image cell--md-6" markdown="1">
+            <img src="{{page.cover}}" class="circle border shadow">
+        </div>
+    </div>
+    <div class="cell cell--1"></div>
+    <div class="cell cell--6">
+        <div class="author__urls-wrapper">
+            <h3>{{page.title}}</h3>
+            <h5>{{page.position}}</h5>
+            <ul>
+                {% if page.location %}
+                <li>{{page.location}} <i class="fas fa-map-marker-alt"></i></li>
+                {% endif %}
+                {% if page.email %}
+                <li>{{page.email}} <i class="far fa-envelope"></i></li>
+                {% endif %}
+                {% if page.google_scholar %}
+                <li><a href="{{page.google_scholar}}">Google Scholar <i class="fas fa-fw fa-graduation-cap"></i></a>
+                </li>
+                {% endif %}
+                {% if page.github %}
+                <li><a href="{{page.github}}">GitHub <i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if page.website %}
+                <li><a href="{{page.website}}">Website <i class="fa fa-link" aria-hidden="true"></i></a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{{ content }}

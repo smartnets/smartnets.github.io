@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : SmartNets
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  SmartNets Lab @Yale
 
 
 ## => Language and Timezone
@@ -223,3 +223,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+collections:
+  members:
+    people: true
+    output: true
+  research:
+    people: true
+    output: true

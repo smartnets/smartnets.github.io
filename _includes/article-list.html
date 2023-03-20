@@ -110,32 +110,40 @@
     {%- elsif include.type == 'grid' -%}
       {%- if include.size == 'sm' -%}
         <div class="cell cell--12 cell--md-4 cell--lg-3">
-          <div class="card card--flat">
+            <a href="{{ _article_url }}">
+            <!-- Changed that from card card--flat to clickable -->
+          <div class="card card--clickable">
             {%- if _article.cover -%}
               <div class="card__image">
-                <img class="image" src="{{ _article_cover }}" />
+                <img class="card__image" src="{{ _article_cover }}">
                 <div class="overlay overlay--bottom">
                   <header>
-                    <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
-                  </header>
+                        <h2 class="card__header">{{ _article.title }}</h2>
+                    </header>
                 </div>
               </div>
             {%- endif -%}
-            </div>
+          </div>
+            </a>
         </div>
       {%- else -%}
 
         <div class="cell cell--12 cell--md-6 cell--lg-4">
-          <div class="card card--flat">
+            <a href="{{ _article_url }}">
+          <div class="card card--clickable">
             {%- if _article.cover -%}
               <div class="card__image"><img src="{{ _article_cover }}" /></div>
             {%- endif -%}
               <div class="card__content">
-                <header>
-                  <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>
-                </header>
+                <div class="card__header">
+                  <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a> 
+                  <!-- member position as subtitle -->
+                  
+                </div>
+                {{ _article.position }}
               </div>
           </div>
+          </a>
         </div>
       {%- endif -%}
     {%- endif -%}

@@ -2,6 +2,7 @@
 .card {
   max-width: 18rem;
   border-radius: map-get($base, border-radius);
+//   Uncomment this for enabling rectangular box for each member
   @include box-shadow();
   @include transition(box-shadow map-get($animation, duration) map-get($animation, timing-function));
   & > :first-child {
@@ -28,6 +29,7 @@
   @include link-colors($text-color-d, $main-color-1);
 }
 
+// Change width for card images in members
 .card__image {
   position: relative;
   width: 100%;
@@ -35,6 +37,7 @@
     display: block;
     width: 100%;
     height: auto;
+    // change it to "inherit" for rectangular images
     border-radius: inherit;
   }
   & > .overlay {

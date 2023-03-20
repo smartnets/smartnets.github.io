@@ -1,3 +1,18 @@
 /* start custom scss snippet */
+// Changes font for header
+// header {
+//     font-family: "Times New Roman", Times, serif;
+// }
+.author__urls-wrapper {
+    a {
+            // text-decoration: underline;
+            font-weight: map-get($base, font-weight);
+            // color: #000000;
+            &:hover {
+                // color: #0060B6;
+                text-decoration: underline;
+            }
+    }
+}
 
 /* end custom scss snippet */

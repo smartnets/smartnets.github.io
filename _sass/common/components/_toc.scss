@@ -117,7 +117,7 @@ ul.toc--navigator {
   .toc-h2 {
     &, a {
       font-size: map-get($base, font-size-sm);
-      font-weight: map-get($base, font-weight-bold);
+      font-weight: map-get($base, font-weight);
       line-height: map-get($base, line-height-sm);
     }
   }

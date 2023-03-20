@@ -112,6 +112,25 @@
     content: "";
     @include split-line(bottom, 4px, transparent);
   }
+
+// Creates sliding underline effect for links in navigation bar
+//    a {
+//        color: saddlebrown;
+//        text-decoration: none;
+//        background-image: linear-gradient(#d99a5a, #d99a5a);
+//        background-size: 0% 0.1em;
+//        background-position-y: 100%;
+//        background-position-x: 50%;
+//        background-repeat: no-repeat;
+//        transition: background-size 0.2s ease-in-out;
+//    }
+
+//    a:hover,
+//    a:focus,
+//    a:active {
+//        background-size: 100% 0.1em;
+//    }
+
 }
 .navigation__item--active {
   a {
