@@ -9,7 +9,7 @@ permalink: /projects
 
 - __NSF__ _SWIFT: SHIELD: A Software-Hardware Approach for Spectrum Coexistence with Rapid Interferer Learning, Detection and Mitigation_, [2021-2024]​
 
-- __NSF__ _RINGS: Ensuring Reliability in mmWave Networks_, [2022-2025]​
+- [__NSF__ _RINGS: Ensuring Reliability in mmWave Networks_, [2022-2025]](https://smartnets.github.io/NSF-RINGS-Ensuring-Reliability-in-mmWave-Networks.github.io/)​
 
 - __ONR__: _Hybrid Network Control Plane Provisioning based on Deep Reinforcement Learning_ [2021-24]​
 
