@@ -22,3 +22,9 @@ header:
       en      : &EN       Members
       # @end locale config
     url: /members
+
+  - titles:
+      # @start locale config
+      en      : &EN       News
+      # @end locale config
+    url: /news

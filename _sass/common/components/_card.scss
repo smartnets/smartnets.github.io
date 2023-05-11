@@ -1,6 +1,6 @@
 
 .card {
-  max-width: 18rem;
+  max-width: 25rem;
   border-radius: map-get($base, border-radius);
 //   Uncomment this for enabling rectangular box for each member
   @include box-shadow();

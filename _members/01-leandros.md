@@ -6,6 +6,8 @@ key: page-aside
 cover: /assets/images/leandros.png
 aside:
   toc: true
+show_title: false
+show_date: false
 article:
   type: normal
   show_cover: false

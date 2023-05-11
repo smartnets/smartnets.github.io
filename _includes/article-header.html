@@ -16,7 +16,7 @@
   {%- if _show_title or _show_edit_on_github -%}
     <div class="article__header">
       {%- if _show_title -%}
-        <header><h4> </h4></header>
+        <header><h2> {{ _article_title }} </h2></header>
       {%- endif -%}
       {%- if _show_edit_on_github -%}
         {%- if site.repository and site.repository_tree -%}

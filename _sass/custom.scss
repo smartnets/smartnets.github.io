@@ -15,4 +15,24 @@
     }
 }
 
+.grid {
+    display: flex;
+    width: 100%;
+}
+
+.col-1-2 {
+    flex: 1;
+    width: 130%;
+    float: right;
+}
+
+.cole-1-2:last-child {
+    margin-left: 20px;
+    // width: 50%;
+}
+
+.col3 {
+    width: 3%;
+}
+
 /* end custom scss snippet */

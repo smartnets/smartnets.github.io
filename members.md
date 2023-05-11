@@ -9,7 +9,6 @@ articles:
   type: grid
   size: sm
 ---
-### Members
 
 <div class="article__content" markdown="1">
 
@@ -18,6 +17,7 @@ articles:
 
 * Konstantinos Poularakis, Research Associate
 * Diego Kiedanski, Postdoctoral Associate
+* Haoyue Tang, Postdoctoral Associate
 * Victor Valls, Postdoctoral Associate
 * Nikolaos Papadis, PhD
 * Yuang Jiang, PhD

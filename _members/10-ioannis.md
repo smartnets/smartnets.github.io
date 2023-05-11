@@ -4,6 +4,8 @@ title: Ioannis Panitsas
 permalink: /members/ioannis_panitsas
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
+show_title: false
+show_date: false
 article:
   type: normal
   show_cover: false

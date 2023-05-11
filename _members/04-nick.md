@@ -4,6 +4,8 @@ title: Nicholas Nordlund
 permalink: /members/nicholas_nordlund
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
+show_title: false
+show_date: false
 article:
   type: normal
   show_cover: false

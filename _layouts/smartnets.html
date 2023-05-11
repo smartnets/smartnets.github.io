@@ -1,0 +1,97 @@
+---
+layout: page
+type: article
+full_width: true
+articles:
+    data_source: research
+    type: brief
+---
+<!-- First Column -->
+{%- include snippets/assign.html
+  target = site.data.variables.default.page.sharing
+  source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
+
+<div class="grid">
+<!-- First Column -->
+<div class="cell cell--1 cell--md-1 cell--lg-1">
+    &nbsp;
+</div>
+
+<!-- Second Column -->
+<div class="cell cell--10 cell--lg-6 content">
+<div class="layout--article">
+  {%- include article/top/custom.html -%}
+
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+
+  {%- if _sharing -%}
+    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
+  {%- endif -%}
+
+  <div class="d-print-none">
+    {%- include article-footer.html -%}
+    {%- include article-section-navigator.html -%}
+  </div>
+
+</div>
+</div>
+
+<!-- Third Column -->
+<div class="cell cell--1 cell--md-2 cell--lg-1 content">
+    &nbsp;
+</div>
+
+
+<!-- Fourth Column -->
+<div class="cell cell--10 cell--md-8 cell--lg-4 content">
+    <h4>&nbsp;</h4>
+    <!-- <div class="column is-4-desktop is-4-tablet"> -->
+        <div class="columns is-multiline">
+            <div class="card">
+                <div class="card__content">
+            <!-- <div class="card__header">
+                <div class="overlay"> -->
+                    <h4><p style="text-align: center">News</p></h4>
+                <!-- </div>
+            </div> -->
+            <!-- <hr> -->
+            {% for post in site.posts limit:3 %}
+            <div class="column is-12">
+                <div class="card--flat">
+                    <div class="card__content">
+                    <a href="{{ post.url }}">
+                        <div class="card__header">
+                            {{ post.title }}
+                        {%- if post.cover -%}
+                            <div class="item__image">
+                                <img class="image image--sm" src="{{ post.cover }}" />
+                            </div>
+                        {%- endif -%}
+                        </div>
+                    </a>
+                    </div>
+                    <div class="item__description">
+                        <p> {{ post.excerpt }} </p>
+                        <div class="article__info clearfix">
+                        <p style="text-align: right"><i class="far fa-calendar-alt"> </i> <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                            </p>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <hr>
+            {% endfor %}
+            <p style="text-align: center">
+                <a class="button button--primary button--pill" href="/news">See More</a>
+            </p>
+        </div>
+        </div>
+        </div>
+    <!-- </div> -->
+</div>
+
+</div>
+<script>
+  {%- include scripts/article.js -%}
+</script>

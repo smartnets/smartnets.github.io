@@ -1,10 +1,11 @@
 ---
-layout: article
+layout: smartnets
 title: SmartNets
 permalink: /
 key: page-article-header-overlay-background-image-ITH
 cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
+show_title: false
 header:
   theme: dark
 article_header:

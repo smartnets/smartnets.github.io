@@ -1,0 +1,41 @@
+<!-- <div class="card">
+    <div class="card__content">
+        <div class="card__header">
+            <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+        </div>
+        {% if post.image %}
+        <div class="card-image">
+            <img src="{{ post.image }}" alt="{{ post.title }}" width="100px">
+        </div>
+        {% endif %}
+        {% if post.summary %}
+            {{ post.summary | markdownify }}
+            {% else %}
+            <p>{{ post.excerpt }}</p>
+            {% endif %}
+            <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
+    </div>
+</div> -->
+
+
+<div class="card">
+    <div class="card__content">
+        <div class="card__header">
+            <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+        </div>
+        {% if post.image %}
+        <div class="card-image">
+            <img src="{{ post.image }}" alt="{{ post.title }}" width="100px">
+        </div>
+        {% endif %}
+        {% if post.summary %}
+        {{ post.summary | markdownify }}
+        {% else %}
+        <p>{{ post.excerpt }}</p>
+        {% endif %}
+        <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
+        <!-- <div class="has-text-centered">
+            <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Read more</a>
+        </div> -->
+    </div>
+</div>

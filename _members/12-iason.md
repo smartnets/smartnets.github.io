@@ -4,6 +4,8 @@ title: Iason Ofeidis
 permalink: /members/iason_ofeidis
 key: page-aside
 cover: /assets/images/iason.jpg
+show_title: false
+show_date: false
 article:
   type: normal
   show_cover: false

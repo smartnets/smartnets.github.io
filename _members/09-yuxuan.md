@@ -4,6 +4,8 @@ title: Yuxuan Xue
 permalink: /members/yuxuan_xue
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
+show_title: false
+show_date: false
 article:
   type: normal
   show_cover: false
