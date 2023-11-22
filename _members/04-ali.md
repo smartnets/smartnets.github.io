@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Nicholas Nordlund
-permalink: /members/nicholas_nordlund
+title: Ali Maatouk
+permalink: /members/ali_maatouk
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false
@@ -9,7 +9,7 @@ show_date: false
 article:
   type: normal
   show_cover: false
-position: PhD Candidate
+position: Postdoctoral Associate
 location: New Haven • CT • USA
 email: "email (at) yale.edu"
 google_scholar: "http://www.google.com"

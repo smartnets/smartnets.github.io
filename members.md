@@ -21,3 +21,4 @@ articles:
 * Victor Valls, Postdoctoral Associate
 * Nikolaos Papadis, PhD
 * Yuang Jiang, PhD
+* Nick Nordlund, PhD
