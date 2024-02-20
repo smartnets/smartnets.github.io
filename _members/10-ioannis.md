@@ -3,7 +3,7 @@ layout: profile
 title: Ioannis Panitsas
 permalink: /members/ioannis_panitsas
 key: page-aside
-cover: /assets/images/dummy-profile.jpeg
+cover: /assets/images/ioannis.jpg
 show_title: false
 show_date: false
 article:
