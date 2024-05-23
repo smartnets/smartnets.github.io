@@ -1,0 +1,32 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Fetch publications and update JSON
+      run: |
+        python3 semantic_scholar.py
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add _data/publications.json
+        git commit -m "Update publications data"
+        git push

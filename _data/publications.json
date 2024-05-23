@@ -1,0 +1,142 @@
+[
+    {
+        "title": "From Similarity to Superiority: Channel Clustering for Time Series Forecasting",
+        "author": "Jialin Chen, J. E. Lenssen, Aosong Feng, Weihua Hu, Matthias Fey, L. Tassiulas, J. Leskovec, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/39fbce781d28b36ad41bd897e0a0ca71a285351a"
+    },
+    {
+        "title": "Maximizing Entanglement Rates via Efficient Memory Management in Flexible Quantum Switches",
+        "author": "Panagiotis Promponas, V\u00edctor Valls, Saikat Guha, L. Tassiulas",
+        "venue": "IEEE Journal on Selected Areas in Communications",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
+    },
+    {
+        "title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
+        "author": "Aosong Feng, Weikang Qiu, Jinbin Bai, Kaicheng Zhou, Zhen Dong, Xiao Zhang, Rex Ying, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/5dfd011338b253b67d6dad30fd651e52a298ab92"
+    },
+    {
+        "title": "Cyber-Twin: Digital Twin-boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
+        "author": "Yagmur Yigit, Ioannis Panitsas, Leandros A. Maglaras, L. Tassiulas, B. Canberk",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
+    },
+    {
+        "title": "Adaptive Heterogeneous Client Sampling for Federated Learning over Wireless Networks",
+        "author": "Bing Luo, Wenli Xiao, Shiqiang Wang, Jianwei Huang, L. Tassiulas",
+        "venue": "IEEE Transactions on Mobile Computing",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/aa92f95b77b7246644e2ce06a62e470f15a08494"
+    },
+    {
+        "title": "Machine Learning on Blockchain Data: A Systematic Mapping Study",
+        "author": "Georgios Palaiokrassas, Sarah Bouraga, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/b7b98a0e02f92b452abdc51de8eedf5c7904616e"
+    },
+    {
+        "title": "Constrained Reinforcement Learning for Adaptive Controller Synchronization in Distributed SDN",
+        "author": "Ioannis Panitsas, Akrit Mudvari, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/ca5f652abbc8f09b62b8ee4bf155e4a40926637d"
+    },
+    {
+        "title": "Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach",
+        "author": "Panagiotis Promponas, Akrit Mudvari, Luca Della Chiesa, P. Polakos, Louis Samuel, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/cd4eed8149e3d8d07576a2db73f5a22252229e59"
+    },
+    {
+        "title": "Efficient High-Resolution Time Series Classification via Attention Kronecker Decomposition",
+        "author": "Aosong Feng, Jialin Chen, Juan Garza, Brooklyn Berry, Francisco Salazar, Yifeng Gao, Rex Ying, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/da0a4266cc1c1a2b3b65922c037e77f3a828ddf6"
+    },
+    {
+        "title": "Predictive Handover Strategy in 6G and Beyond: A Deep and Transfer Learning Approach",
+        "author": "Ioannis Panitsas, Akrit Mudvari, Ali Maatouk, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/ed3b7b492cf22f63aa6be96dd53e842b227d5179"
+    },
+    {
+        "title": "A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution",
+        "author": "Oliver Crampton, Panagiotis Promponas, Richard Chen, P. Polakos, L. Tassiulas, Louis Samuel",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/f256b9f1a95e55e5e8d2306226721e2d069a4430"
+    },
+    {
+        "title": "Use Coupled LSTM Networks to Solve Constrained Optimization Problems",
+        "author": "Zheyu Chen, K. Leung, Shiqiang Wang, L. Tassiulas, K. Chan, D. Towsley",
+        "venue": "IEEE Transactions on Cognitive Communications and Networking",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/06053ee3ce4fe3c17383de6f2a7013d4f04f6d57"
+    },
+    {
+        "title": "DINC: Toward Distributed In-Network Computing",
+        "author": "Changgang Zheng, Haoyue Tang, Mingyuan Zang, Xinpeng Hong, Aosong Feng, L. Tassiulas, Noa Zilberman",
+        "venue": "PACMNET",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/1bb01e31c0121feda2f4fbdd170aa9be8bf5d76b"
+    },
+    {
+        "title": "Quantum Switch Scheduling for Information Qubits",
+        "author": "Panagiotis Promponas, V\u00edctor Valls, L. Tassiulas",
+        "venue": "Sigmetrics Performance Evaluation Review",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/2e47e0a516f5f4ce9a9f41f4d9182ed42deb4f31"
+    },
+    {
+        "title": "Mobility as a Resource (MaaR) for resilient human-centric automation: a vision paper",
+        "author": "S. T. Waller, Amalia Polydoropoulou, L. Tassiulas, A. Ziliaskopoulos, Sisi Jian, Susann Wagenknecht, Georg Hirte, Satish Ukkusuri, Gitakrishnan Ramadurai, Tomasz Bednarz",
+        "venue": "arXiv.org",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/667d0fc34dea412276122c98fc00c4d4e4d90c2f"
+    },
+    {
+        "title": "Analysis and Evaluation of Fully TCP-Compatible Backpressure-Driven Traffic Engineering",
+        "author": "Christos Liaskos, Konstantinos Alexandris, Anindya Das, Siyu Tang, L. Tassiulas",
+        "venue": "IEEE Transactions on Network Science and Engineering",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/763fab19483fc707ee6238ff9d69769996b1b212"
+    },
+    {
+        "title": "Age Optimal Sampling for Unreliable Channels Under Unknown Channel Statistics",
+        "author": "Hongyi He, Haoyue Tang, Jiayu Pan, Jintao Wang, Jian Song, L. Tassiulas",
+        "venue": "International Symposium on Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/788131f473144ce902fec6b5cb4648d236c059a3"
+    },
+    {
+        "title": "Scalable Multipartite Entanglement Distribution in Quantum Networks",
+        "author": "Nitish K. Panigrahy, Matheus Guedes de Andrade, Shahrooz Pouryousef, Donald F. Towsley, L. Tassiulas",
+        "venue": "International Conference on Quantum Computing and Engineering",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/7dcc366527b1e742cdd85f6fbffc565dab22df55"
+    },
+    {
+        "title": "The First Workshop on Quantum Systems and Computations (2023)",
+        "author": "David Elkouss, John C. S. Lui, L. Tassiulas",
+        "venue": "Sigmetrics Performance Evaluation Review",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/8f3399819fcbe83a95f624a4de4b7ec39c1588fd"
+    },
+    {
+        "title": "Adaptive Compression-Aware Split Learning and Inference for Enhanced Network Efficiency",
+        "author": "Akrit Mudvari, Antero Vainio, Iason Ofeidis, Sasu Tarkoma and L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/995b0dee2628311a8613235b0e3fd85bec0f97e3"
+    }
+]
