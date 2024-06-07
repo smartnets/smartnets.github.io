@@ -11,14 +11,14 @@ article:
   show_cover: false
 position: Postdoctoral Associate
 location: New Haven • CT • USA
-email: "email (at) yale.edu"
-google_scholar: "http://www.google.com"
+email: "georgios.palaiokrassas (at) yale.edu"
+google_scholar: "https://scholar.google.gr/citations?user=KEAdGOUAAAAJ&hl=en"
 github: "http://www.google.com"
 website: "http://www.google.com"
 ---
 
 ## Interests
-Georgios Palaiokrassas' research interests lie at the intersection of Blockchain, Machine Learning and Internet and Things. He focuses on the development of advanced algorithms and models for decentralized finance (DeFi) applications, particularly in the areas of fraud detection, credit risk assessment, and liquidation prediction. He has made significant contributions to the understanding and implementation of smart contracts on blockchains, reinforcement learning in blockchain environments and the application of Large Language Models (LLMs) for blockchain use cases enhancing smart contracts and improving overall system reliability and efficiency through AI-driven insights.
+Georgios (George) Palaiokrassas' research interests lie at the intersection of Blockchain, Machine Learning and Internet and Things. He focuses on the development of advanced algorithms and models for decentralized finance (DeFi) applications, particularly in the areas of fraud detection, credit risk assessment, and liquidation prediction. George has made significant contributions to the understanding and implementation of smart contracts on blockchains, reinforcement learning in blockchain environments and the application of Large Language Models (LLMs) for blockchain use cases enhancing smart contracts and improving overall system reliability and efficiency through AI-driven insights.
 
 
 ## Selected Publications
