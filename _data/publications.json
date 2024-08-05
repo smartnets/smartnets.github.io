@@ -77,6 +77,13 @@
         "url": "https://www.semanticscholar.org/paper/f256b9f1a95e55e5e8d2306226721e2d069a4430"
     },
     {
+        "title": "A Brief Introduction to Quantum Network Control",
+        "author": "V\u00edctor Valls, Panagiotis Promponas, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/f99591b6ddd5833fde7cdbbb0d64897ed7a5c927"
+    },
+    {
         "title": "Use Coupled LSTM Networks to Solve Constrained Optimization Problems",
         "author": "Zheyu Chen, K. Leung, Shiqiang Wang, L. Tassiulas, K. Chan, D. Towsley",
         "venue": "IEEE Transactions on Cognitive Communications and Networking",
@@ -131,12 +138,5 @@
         "venue": "Sigmetrics Performance Evaluation Review",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/8f3399819fcbe83a95f624a4de4b7ec39c1588fd"
-    },
-    {
-        "title": "Adaptive Compression-Aware Split Learning and Inference for Enhanced Network Efficiency",
-        "author": "Akrit Mudvari, Antero Vainio, Iason Ofeidis, Sasu Tarkoma, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/995b0dee2628311a8613235b0e3fd85bec0f97e3"
     }
 ]
