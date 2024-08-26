@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
     },
     {
+        "title": "Machine Learning in DeFi: Credit Risk Assessment and Liquidation Prediction",
+        "author": "Georgios Palaiokrassas, S. Scherrers, Eftychia Makri, L. Tassiulas",
+        "venue": "International Conference on Blockchain",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/5d60c3d10b9bf03a6d7552a681d664e2965aa18a"
+    },
+    {
         "title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
         "author": "Aosong Feng, Weikang Qiu, Jinbin Bai, Kaicheng Zhou, Zhen Dong, Xiao Zhang, Rex Ying, L. Tassiulas",
         "venue": "arXiv.org",
@@ -21,9 +28,9 @@
         "url": "https://www.semanticscholar.org/paper/5dfd011338b253b67d6dad30fd651e52a298ab92"
     },
     {
-        "title": "Cyber-Twin: Digital Twin-boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
+        "title": "Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
         "author": "Yagmur Yigit, Ioannis Panitsas, Leandros A. Maglaras, L. Tassiulas, B. Canberk",
-        "venue": "arXiv.org",
+        "venue": "ICC 2024 - IEEE International Conference on Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
     },
@@ -131,12 +138,5 @@
         "venue": "International Conference on Quantum Computing and Engineering",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/7dcc366527b1e742cdd85f6fbffc565dab22df55"
-    },
-    {
-        "title": "The First Workshop on Quantum Systems and Computations (2023)",
-        "author": "David Elkouss, John C. S. Lui, L. Tassiulas",
-        "venue": "Sigmetrics Performance Evaluation Review",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/8f3399819fcbe83a95f624a4de4b7ec39c1588fd"
     }
 ]
