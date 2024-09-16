@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
     },
     {
+        "title": "Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications",
+        "author": "Ali Maatouk, Kenny Chirino Ampudia, Rex Ying, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/579574a24bdc85f5305684f6be30c676707d433a"
+    },
+    {
         "title": "Machine Learning in DeFi: Credit Risk Assessment and Liquidation Prediction",
         "author": "Georgios Palaiokrassas, S. Scherrers, Eftychia Makri, L. Tassiulas",
         "venue": "International Conference on Blockchain",
@@ -40,6 +47,13 @@
         "venue": "IEEE Transactions on Mobile Computing",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/aa92f95b77b7246644e2ce06a62e470f15a08494"
+    },
+    {
+        "title": "Over-the-Air Federated Learning via Weighted Aggregation",
+        "author": "Seyed Mohammad Azimi-Abarghouyi, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/afd49df0b735e37f61dcc04474406b80b4c3ae19"
     },
     {
         "title": "Machine Learning on Blockchain Data: A Systematic Mapping Study",
@@ -124,19 +138,5 @@
         "venue": "IEEE Transactions on Network Science and Engineering",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/763fab19483fc707ee6238ff9d69769996b1b212"
-    },
-    {
-        "title": "Age Optimal Sampling for Unreliable Channels Under Unknown Channel Statistics",
-        "author": "Hongyi He, Haoyue Tang, Jiayu Pan, Jintao Wang, Jian Song, L. Tassiulas",
-        "venue": "International Symposium on Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/788131f473144ce902fec6b5cb4648d236c059a3"
-    },
-    {
-        "title": "Scalable Multipartite Entanglement Distribution in Quantum Networks",
-        "author": "Nitish K. Panigrahy, Matheus Guedes de Andrade, Shahrooz Pouryousef, Donald F. Towsley, L. Tassiulas",
-        "venue": "International Conference on Quantum Computing and Engineering",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/7dcc366527b1e742cdd85f6fbffc565dab22df55"
     }
 ]
