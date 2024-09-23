@@ -35,11 +35,25 @@
         "url": "https://www.semanticscholar.org/paper/5dfd011338b253b67d6dad30fd651e52a298ab92"
     },
     {
+        "title": "Throughput-Optimal Scheduling via Rate Learning",
+        "author": "Panagiotis Promponas, V\u00edctor Valls, Konstantinos E. Nikolakakis, Dionysis Kalogerias, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/77a922e042a33004904a8766cc99f3befdc5c1fb"
+    },
+    {
         "title": "Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
         "author": "Yagmur Yigit, Ioannis Panitsas, Leandros A. Maglaras, L. Tassiulas, B. Canberk",
         "venue": "ICC 2024 - IEEE International Conference on Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
+    },
+    {
+        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
+        "author": "Jiasheng Zhang, Jialin Chen, Ali Maatouk, Ngoc Bui, Qianqian Xie, L. Tassiulas, Jie Shao, Hua Xu, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/a42abbf2f136dfa52b0657a0696e354d0576da09"
     },
     {
         "title": "Adaptive Heterogeneous Client Sampling for Federated Learning Over Wireless Networks",
@@ -124,19 +138,5 @@
         "venue": "Sigmetrics Performance Evaluation Review",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/2e47e0a516f5f4ce9a9f41f4d9182ed42deb4f31"
-    },
-    {
-        "title": "Mobility as a Resource (MaaR) for resilient human-centric automation: a vision paper",
-        "author": "S. T. Waller, Amalia Polydoropoulou, L. Tassiulas, A. Ziliaskopoulos, Sisi Jian, Susann Wagenknecht, Georg Hirte, Satish Ukkusuri, Gitakrishnan Ramadurai, Tomasz Bednarz",
-        "venue": "arXiv.org",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/667d0fc34dea412276122c98fc00c4d4e4d90c2f"
-    },
-    {
-        "title": "Analysis and Evaluation of Fully TCP-Compatible Backpressure-Driven Traffic Engineering",
-        "author": "Christos Liaskos, Konstantinos Alexandris, Anindya Das, Siyu Tang, L. Tassiulas",
-        "venue": "IEEE Transactions on Network Science and Engineering",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/763fab19483fc707ee6238ff9d69769996b1b212"
     }
 ]
