@@ -7,6 +7,13 @@
         "url": "https://www.semanticscholar.org/paper/39fbce781d28b36ad41bd897e0a0ca71a285351a"
     },
     {
+        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
+        "author": "Jiasheng Zhang, Jialin Chen, Ali Maatouk, Ngoc Bui, Qianqian Xie, L. Tassiulas, Jie Shao, Hua Xu, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/426a2db9d0c96b1d43a948be7e827c9eb3a3b0b5"
+    },
+    {
         "title": "Maximizing Entanglement Rates via Efficient Memory Management in Flexible Quantum Switches",
         "author": "Panagiotis Promponas, V\u00edctor Valls, Saikat Guha, L. Tassiulas",
         "venue": "IEEE Journal on Selected Areas in Communications",
@@ -49,13 +56,6 @@
         "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
     },
     {
-        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
-        "author": "Jiasheng Zhang, Jialin Chen, Ali Maatouk, Ngoc Bui, Qianqian Xie, L. Tassiulas, Jie Shao, Hua Xu, Rex Ying",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/a42abbf2f136dfa52b0657a0696e354d0576da09"
-    },
-    {
         "title": "Adaptive Heterogeneous Client Sampling for Federated Learning Over Wireless Networks",
         "author": "Bing Luo, Wenli Xiao, Shiqiang Wang, Jianwei Huang, L. Tassiulas",
         "venue": "IEEE Transactions on Mobile Computing",
@@ -65,7 +65,7 @@
     {
         "title": "Over-the-Air Federated Learning via Weighted Aggregation",
         "author": "Seyed Mohammad Azimi-Abarghouyi, L. Tassiulas",
-        "venue": "arXiv.org",
+        "venue": "IEEE Transactions on Wireless Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/afd49df0b735e37f61dcc04474406b80b4c3ae19"
     },
