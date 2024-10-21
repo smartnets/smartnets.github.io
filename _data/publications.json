@@ -21,6 +21,13 @@
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
     },
     {
+        "title": "SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization",
+        "author": "Akrit Mudvari, Yuang Jiang, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/4956d7008724b77ab908f9b42116b1678750d56d"
+    },
+    {
         "title": "Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications",
         "author": "Ali Maatouk, Kenny Chirino Ampudia, Rex Ying, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "PACMNET",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/1bb01e31c0121feda2f4fbdd170aa9be8bf5d76b"
-    },
-    {
-        "title": "Quantum Switch Scheduling for Information Qubits",
-        "author": "Panagiotis Promponas, V\u00edctor Valls, L. Tassiulas",
-        "venue": "Sigmetrics Performance Evaluation Review",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/2e47e0a516f5f4ce9a9f41f4d9182ed42deb4f31"
     }
 ]
