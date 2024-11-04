@@ -77,6 +77,13 @@
         "url": "https://www.semanticscholar.org/paper/afd49df0b735e37f61dcc04474406b80b4c3ae19"
     },
     {
+        "title": "Long Sequence Modeling with Attention Tensorization: From Sequence to Tensor Learning",
+        "author": "Aosong Feng, Rex Ying, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/b44a1b65bb8de87d6b4f6fc092ade342d344f400"
+    },
+    {
         "title": "Machine Learning on Blockchain Data: A Systematic Mapping Study",
         "author": "Georgios Palaiokrassas, Sarah Bouraga, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "IEEE Transactions on Cognitive Communications and Networking",
         "year": 2023,
         "url": "https://www.semanticscholar.org/paper/06053ee3ce4fe3c17383de6f2a7013d4f04f6d57"
-    },
-    {
-        "title": "DINC: Toward Distributed In-Network Computing",
-        "author": "Changgang Zheng, Haoyue Tang, Mingyuan Zang, Xinpeng Hong, Aosong Feng, L. Tassiulas, Noa Zilberman",
-        "venue": "PACMNET",
-        "year": 2023,
-        "url": "https://www.semanticscholar.org/paper/1bb01e31c0121feda2f4fbdd170aa9be8bf5d76b"
     }
 ]
