@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Trey Crump
-permalink: /members/trey_crump
+title: Andreas Varvarigos
+permalink: /members/andreas_varvarigos
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false

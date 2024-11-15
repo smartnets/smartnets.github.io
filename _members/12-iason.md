@@ -9,7 +9,7 @@ show_date: false
 article:
   type: normal
   show_cover: false
-position: PhD Candidate
+position: PhD Student
 location: New Haven • CT • USA
 email: "iason.ofeidis (at) yale.edu"
 google_scholar: "https://scholar.google.com/citations?user=wOGPwdMAAAAJ&hl=en&oi=ao"

@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Trey Crump
-permalink: /members/trey_crump
+title: Chaz Okada
+permalink: /members/chaz_okada
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false
