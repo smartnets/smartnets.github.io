@@ -112,6 +112,13 @@
         "url": "https://www.semanticscholar.org/paper/cd4eed8149e3d8d07576a2db73f5a22252229e59"
     },
     {
+        "title": "SAR Data Generation Using Denoising Diffusion Probabilistic Models",
+        "author": "Trey Crump, S. Kompella, Clement Kam, L. Tassiulas",
+        "venue": "IEEE Military Communications Conference",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/d5396190072f5d5971d767996dcba5b5edec05af"
+    },
+    {
         "title": "Efficient High-Resolution Time Series Classification via Attention Kronecker Decomposition",
         "author": "Aosong Feng, Jialin Chen, Juan Garza, Brooklyn Berry, Francisco Salazar, Yifeng Gao, Rex Ying, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/f256b9f1a95e55e5e8d2306226721e2d069a4430"
-    },
-    {
-        "title": "A Brief Introduction to Quantum Network Control",
-        "author": "V\u00edctor Valls, Panagiotis Promponas, L. Tassiulas",
-        "venue": "IEEE Communications Magazine",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/f99591b6ddd5833fde7cdbbb0d64897ed7a5c927"
     }
 ]
