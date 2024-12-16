@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
+        "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
+        "venue": "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/038f7ae9b1ad0ef12f0a06db35df288183b82fd4"
+    },
+    {
         "title": "From Similarity to Superiority: Channel Clustering for Time Series Forecasting",
         "author": "Jialin Chen, J. E. Lenssen, Aosong Feng, Weihua Hu, Matthias Fey, L. Tassiulas, J. Leskovec, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/ed3b7b492cf22f63aa6be96dd53e842b227d5179"
-    },
-    {
-        "title": "A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution",
-        "author": "Oliver Crampton, Panagiotis Promponas, Richard Chen, P. Polakos, L. Tassiulas, Louis Samuel",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/f256b9f1a95e55e5e8d2306226721e2d069a4430"
     }
 ]
