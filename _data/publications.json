@@ -2,9 +2,16 @@
     {
         "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
         "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
-        "venue": "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking",
+        "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/038f7ae9b1ad0ef12f0a06db35df288183b82fd4"
+    },
+    {
+        "title": "Scarf: Soil Carbon Sensing with Wi-Fi and Optical Signals",
+        "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
+        "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/30ee70d13733c00681c068a4190ab7edabd876d3"
     },
     {
         "title": "From Similarity to Superiority: Channel Clustering for Time Series Forecasting",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/da0a4266cc1c1a2b3b65922c037e77f3a828ddf6"
-    },
-    {
-        "title": "Age Optimal Sampling for Unreliable Channels under Unknown Channel Statistics",
-        "author": "Hongyi He, Haoyue Tang, Jiayu Pan, Jintao Wang, Jian Song, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/e0dc36f771653de7352edfd07eb67f38057583f5"
     }
 ]
