@@ -35,6 +35,13 @@
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
     },
     {
+        "title": "SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate",
+        "author": "Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, L. Tassiulas, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/485ce3a47b7b80fac6888ba4b19613fdae1445e4"
+    },
+    {
         "title": "SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization",
         "author": "Akrit Mudvari, Yuang Jiang, L. Tassiulas",
         "venue": "arXiv.org",
@@ -65,16 +72,9 @@
     {
         "title": "Throughput-Optimal Scheduling via Rate Learning",
         "author": "Panagiotis Promponas, V\u00edctor Valls, Konstantinos E. Nikolakakis, Dionysis Kalogerias, L. Tassiulas",
-        "venue": "arXiv.org",
+        "venue": "IEEE Conference on Decision and Control",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/77a922e042a33004904a8766cc99f3befdc5c1fb"
-    },
-    {
-        "title": "SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate",
-        "author": "Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, L. Tassiulas, Rex Ying",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/8a4c4cb779e1fe978139bbc708ca03ac1786a316"
     },
     {
         "title": "Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
