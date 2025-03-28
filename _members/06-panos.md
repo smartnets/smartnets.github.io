@@ -71,7 +71,7 @@ Paradigm Shift Toward Satisfaction, Realism and Efficiency in Wireless Networks 
 **Promponas, P.**, Apostolopoulos, P. A., Tsiropoulou, E. E., & Papavassiliou, S. (2019, September). [Redesigning Resource Management in Wireless Networks based on Games in Satisfaction Form](http://ece-research.unm.edu/tsiropoulou/files/IEEE_WMNC_2019_Promponas_Panagiotis_final.pdf). In 2019 12th IFIP Wireless and Mobile Networking Conference (WMNC) (pp. 24-31). IEEE. **(Best Paper Award)**
 
 
-## Workshops
+### Workshops
 
  **Promponas, P.**, Valls, V.,  & Tassiulas, L. [Quantum Switch Scheduling for Information Qubits.](https://www.cse.cuhk.edu.hk/~cslui/paper05.pdf) Workshop on Quantum Systems and Computation, SIGMETRICS '23.
 
