@@ -28,7 +28,7 @@ Previously, I’ve worked on modeling and optimization in sectorized directional
 ## Publications
 
 
-## Journals
+### Journals
 
 
 Crampton, O., **Promponas, P.**, Chen, R.,  Polakos P., Tassiulas, L., & Samuel, L. [A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution.](https://arxiv.org/pdf/2405.05875) Journal of Quantum Computing (JQC).
@@ -54,7 +54,7 @@ Mathematical Methods of Operations Research (Springer).
 Papavassiliou, S., Tsiropoulou, E. E., **Promponas, P.**, & Vamvakas, P. (2020, October). [A 
 Paradigm Shift Toward Satisfaction, Realism and Efficiency in Wireless Networks Resource Sharing.](https://www.researchgate.net/profile/Eirini_Eleni_Tsiropoulou/publication/346392121_A_Paradigm_Shift_Toward_Satisfaction_Realism_and_Efficiency_in_Wireless_Networks_Resource_Sharing/links/5fc3dd77a6fdcc6cc683a658/A-Paradigm-Shift-Toward-Satisfaction-Realism-and-Efficiency-in-Wireless-Networks-Resource-Sharing.pdf) IEEE Network.
 
-## Conferences
+### Conferences
 
 **Promponas, P.**, Mudvari, A., Della Chiesa , L., Polakos P., Samuel, L., & Tassiulas, L. [Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach.](https://arxiv.org/pdf/2404.17077) 2025 IEEE International Conference on Communications (ICC '25).
 
