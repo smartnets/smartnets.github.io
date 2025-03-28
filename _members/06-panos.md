@@ -3,7 +3,7 @@ layout: profile
 title: Panagiotis Promponas
 permalink: /members/panagiotis_promponas
 key: page-aside
-cover: /assets/images/dummy-profile.jpeg
+cover: /assets/images/panos_picture.jpg
 show_title: false
 show_date: false
 article:
