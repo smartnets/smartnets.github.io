@@ -11,7 +11,7 @@ article:
   show_cover: false
 position: PhD Candidate
 location: New Haven • CT • USA
-email: "email (at) yale.edu"
+email: "panagiotis.promponas@yale.edu"
 google_scholar: "https://scholar.google.com/citations?user=-1WgCd8AAAAJ&hl=en&oi=ao"
 github: "https://github.com/ppromponas"
 website: "https://ppromponas.com"
