@@ -22,9 +22,6 @@ show_date: false
 
 
 
-
-# Sectorized mmWave Networks
-
 We explore how next-generation wireless systems can exploit **sectorization**—the ability of each infrastructure node to activate multiple directional antennas—to reshape the network and deliver fiber-like speeds. Our work begins by defining a comprehensive **sectorized network model** that captures how each node’s sectors interact to form multi-hop paths, and how interference is influenced by different sector configurations.
 
 Within this model, we compute the **capacity region**, which represents all the traffic demands (or flows) the network can support without overloading. By carefully tuning each node’s sectorization, we can increase total throughput, reduce congestion, and route traffic more efficiently. We formalize this tuning as an **optimization problem**, where given a target network flow, we find the best way to define the sectors. We then delve deeper into how dynamically reconfiguring these sectors can change the *effective* network topology—unlocking even more capacity when traffic patterns vary over time.
