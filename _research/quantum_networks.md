@@ -3,7 +3,7 @@ layout: article
 title: "Quantum Networks"
 permalink: /research/quantum_networks
 key: page-aside
-cover: /assets/images/quantum_networks.jpg
+cover: /assets/images/quantum_networks.png
 aside:
   # Set it to true for sidebar
   toc: false
@@ -16,7 +16,7 @@ article:
 show_date: false
 ---
 
-![/assets/images/quantum_networks.jpg](/assets/images/quantum_networks.jpg)
+![/assets/images/quantum_networks.jpg](/assets/images/quantum_networks.png)
 
 
 
@@ -32,10 +32,10 @@ show_date: false
 Quantum networks are systems of interconnected quantum devices that share entangled qubits across distances. These entanglement-based links form the foundation of quantum communication, enabling powerful capabilities such as quantum key distribution (QKD), distributed quantum computing, and high-precision quantum sensing. However, entanglement is fragile—loss and decoherence quickly degrade it over long distances, making entanglement distribution a critical research challenge.
            
             
-A key component of such networks is the quantum repeater. These devices extend the range of entanglement by dividing long links into shorter segments and performing entanglement swapping and purification at intermediate nodes. Another core element is the <strong>quantum switch</strong>, which dynamically manages entanglement resources and efficiently connects users based on demand.
+A key component of such networks is the quantum repeater. These devices extend the range of entanglement by dividing long links into shorter segments and performing entanglement swapping and purification at intermediate nodes. Another core element is the quantum switch, which dynamically manages entanglement resources and efficiently connects users based on demand.
             
             
-These network elements are essential because large-scale, monolithic quantum processors are currently infeasible. Quantum systems are hard to scale due to hardware limitations and error rates. Instead, by connecting smaller quantum devices through entangled links, we can build scalable, modular architectures. My research models these entanglement distribution networks and develops scheduling and optimization methods for improving their capacity, performance, and robustness.
+These network elements are essential because large-scale, monolithic quantum processors are currently infeasible. Quantum systems are hard to scale due to hardware limitations and error rates. Instead, by connecting smaller quantum devices through entangled links, we can build scalable, modular architectures. Our research models these entanglement distribution networks and develops scheduling and optimization methods for improving their capacity, performance, and robustness.
         
 
             
@@ -53,11 +53,12 @@ Valls, V., Promponas, P., & Tassiulas, L. On the Capacity of the Quantum Switch 
         
 
 
-As quantum computing technology evolves, a single quantum processor may not be able to handle the size and complexity of large-scale quantum applications. To address this, <strong>Distributed Quantum Computing (DQC)</strong> has emerged as a promising architecture that connects multiple quantum processors via quantum links to operate as a unified computational platform.
+As quantum computing technology evolves, a single quantum processor may not be able to handle the size and complexity of large-scale quantum applications. To address this, *Distributed Quantum Computing (DQC)* has emerged as a promising architecture that connects multiple quantum processors via quantum links to operate as a unified computational platform.
             
 One of the core challenges in DQC is enabling seamless execution of quantum circuits across physically separated QPUs. This requires careful handling of two critical compilation tasks:
                 
 *Initial Qubit Mapping*: Strategically assigning logical qubits in the circuit to the physical qubits available across the networked QPUs, in a way that anticipates and minimizes costly inter-QPU operations.
+
 *Qubit Routing*: Managing the generation and use of entanglement links, scheduling quantum teleportation operations, and injecting SWAP gates to move qubits efficiently across and within QPUs.
                 
 Our work is focused on developing compilation frameworks that jointly consider these aspects under realistic system constraints, such as limited link fidelity, qubit decoherence, and network congestion. The goal is to enable efficient, scalable, and reliable execution of quantum circuits in distributed settings.
