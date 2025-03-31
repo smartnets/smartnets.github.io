@@ -27,7 +27,7 @@ show_date: false
 
 
 
-# Optimizing and Modeling Quantum Entanglement Networks
+## Optimizing and Modeling Quantum Entanglement Networks
 
 Quantum networks are systems of interconnected quantum devices that share entangled qubits across distances. These entanglement-based links form the foundation of quantum communication, enabling powerful capabilities such as quantum key distribution (QKD), distributed quantum computing, and high-precision quantum sensing. However, entanglement is fragile—loss and decoherence quickly degrade it over long distances, making entanglement distribution a critical research challenge.
            
@@ -39,7 +39,7 @@ These network elements are essential because large-scale, monolithic quantum pro
         
 
             
-## Selected Publications
+### Selected Publications
       
             
 Valls, V., Promponas, P., & Tassiulas, L. A Brief Introduction to Quantum Network Control. IEEE Communications Magazine.
@@ -49,7 +49,7 @@ Promponas, P., Valls, V., & Tassiulas, L. Maximizing Entanglement Rates via Effi
 Valls, V., Promponas, P., & Tassiulas, L. On the Capacity of the Quantum Switch with and without Entanglement Decoherence. IEEE Communications Letters.
         
 
-# Distributed Quantum Computing and Compiler Design
+## Distributed Quantum Computing and Compiler Design
         
 
 
@@ -69,7 +69,7 @@ The GIF below demonstrates a scenario with two QPUs connected by a single quantu
 ![Distributed Quantum Compiler Demo](/assets/videos/quantum-demo.gif)
 
 
-## Selected Publications
+### Selected Publications
 
 Promponas, P., Mudvari, A., Della Chiesa, L., Polakos, P., Samuel, L., & Tassiulas, L. Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach. 2025 IEEE International Conference on Communications (ICC ‘25).
         
