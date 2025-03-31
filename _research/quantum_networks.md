@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Entanglement Distribution Networks & Distributed Quantum Computing"
+title: "Quantum Networks"
 permalink: /research/quantum_networks
 key: page-aside
 cover: /assets/images/quantum_networks.jpg
@@ -65,8 +65,8 @@ Our work is focused on developing compilation frameworks that jointly consider t
 The GIF below demonstrates a scenario with two QPUs connected by a single quantum link. It visualizes some of the actions that the compiler can perform: locally SWAPping logical qubits within a QPU, and performing qubit and gate teleportations across QPUs. These actions are taken to execute a quantum circuit, which is represented internally as a Directed Acyclic Graph (DAG).
            
 
-![Distributed Quantum Compiler Demo](/gifs/quantum-demo.gif)
 
+![/assets/videos/quantum-demo.gif](/assets/videos/quantum-demo.gif)
 
   ## Selected Publications
   Promponas, P., Mudvari, A., Della Chiesa, L., Polakos, P., Samuel, L., & Tassiulas, L. Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach. 2025 IEEE International Conference on Communications (ICC ‘25).
