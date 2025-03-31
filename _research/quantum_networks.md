@@ -66,13 +66,11 @@ The GIF below demonstrates a scenario with two QPUs connected by a single quantu
            
 
 
-![/assets/videos/quantum-demo.gif](/assets/videos/quantum-demo.gif)
+![Distributed Quantum Compiler Demo](/assets/videos/quantum-demo.gif)
+
 
   ## Selected Publications
   Promponas, P., Mudvari, A., Della Chiesa, L., Polakos, P., Samuel, L., & Tassiulas, L. Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach. 2025 IEEE International Conference on Communications (ICC ‘25).
         
 
         
-
-</body>
-</html>
