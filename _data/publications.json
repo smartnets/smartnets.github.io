@@ -7,6 +7,13 @@
         "url": "https://www.semanticscholar.org/paper/3e6e4b23265fd2852aac3b8d75903e4499d4e319"
     },
     {
+        "title": "MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering",
+        "author": "Jialin Chen, Aosong Feng, Ziyu Zhao, Juan Garza, G. Nurbek, Cheng Qin, Ali Maatouk, L. Tassiulas, Yifeng Gao, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
+    },
+    {
         "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
         "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
         "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/cd4eed8149e3d8d07576a2db73f5a22252229e59"
-    },
-    {
-        "title": "SAR Data Generation Using Denoising Diffusion Probabilistic Models",
-        "author": "Trey Crump, S. Kompella, Clement Kam, L. Tassiulas",
-        "venue": "IEEE Military Communications Conference",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/d5396190072f5d5971d767996dcba5b5edec05af"
     }
 ]
