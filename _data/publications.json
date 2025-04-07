@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
     },
     {
+        "title": "Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting",
+        "author": "Eftychia Makri, Georgios Palaiokrassas, Sarah Bouraga, Antigoni Polychroniadou, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/95d0b5a14c6b9361b1d12d59c38e4f3cef97c819"
+    },
+    {
         "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
         "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
         "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/ca5f652abbc8f09b62b8ee4bf155e4a40926637d"
-    },
-    {
-        "title": "Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach",
-        "author": "Panagiotis Promponas, Akrit Mudvari, Luca Della Chiesa, P. Polakos, Louis Samuel, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/cd4eed8149e3d8d07576a2db73f5a22252229e59"
     }
 ]
