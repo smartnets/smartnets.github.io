@@ -20,7 +20,7 @@ show_date: false
 
 ## Next-Generation Networking and Security
 
-The rapid evolution of next-generation networks, including 5G and beyond, brings new challenges in ensuring scalability, adaptability, and protection against sophisticated security threats. Our research focuses on designing network architectures that can intelligently manage resources and maintain strong security in highly dynamic and distributed environments. We develop methods for scaling cloud-native network infrastructures in response to fluctuating traffic patterns, and create machine learning-based systems for detecting and mitigating attacks such as jamming and intrusions. By addressing both scalability and security together, our goal is to enable future networks that are efficient, resilient, and capable of meeting the performance and reliability demands of emerging wireless technologies.
+The rapid evolution of next-generation networks, including 5G and beyond, brings new challenges in ensuring scalability, adaptability, and protection against sophisticated security threats. Our research focuses on designing algorithms that can intelligently manage resources and maintain strong security in highly dynamic and distributed environments. We develop methods for scaling cloud-native network infrastructures in response to fluctuating traffic patterns, and create machine learning-based systems for detecting and mitigating attacks such as jamming and intrusions. By addressing both scalability and security together, our goal is to enable future networks that are efficient, resilient, and capable of meeting the performance and reliability demands of emerging wireless technologies.
 
      
 ### Selected Publications
