@@ -21,6 +21,13 @@
         "url": "https://www.semanticscholar.org/paper/95d0b5a14c6b9361b1d12d59c38e4f3cef97c819"
     },
     {
+        "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts",
+        "author": "Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, L. Tassiulas, Menglin Yang, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/b48eb1e524423cf35fd565cfd50c9a790e2ad85b"
+    },
+    {
         "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
         "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
         "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/b7b98a0e02f92b452abdc51de8eedf5c7904616e"
-    },
-    {
-        "title": "Constrained Reinforcement Learning for Adaptive Controller Synchronization in Distributed SDN",
-        "author": "Ioannis Panitsas, Akrit Mudvari, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/ca5f652abbc8f09b62b8ee4bf155e4a40926637d"
     }
 ]
