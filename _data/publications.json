@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
     },
     {
+        "title": "On the Optimization and Stability of Sectorized Wireless Networks",
+        "author": "Panagiotis Promponas, Tingjun Chen, L. Tassiulas",
+        "venue": "IEEE Transactions on Networking",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/64cbb3be2684a956ae04a4f92cfdb1cf7a5e367e"
+    },
+    {
         "title": "Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting",
         "author": "Eftychia Makri, Georgios Palaiokrassas, Sarah Bouraga, Antigoni Polychroniadou, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "IEEE Transactions on Wireless Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/afd49df0b735e37f61dcc04474406b80b4c3ae19"
-    },
-    {
-        "title": "Long Sequence Modeling with Attention Tensorization: From Sequence to Tensor Learning",
-        "author": "Aosong Feng, Rex Ying, L. Tassiulas",
-        "venue": "Conference on Empirical Methods in Natural Language Processing",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/b44a1b65bb8de87d6b4f6fc092ade342d344f400"
     }
 ]
