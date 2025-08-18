@@ -28,11 +28,25 @@
         "url": "https://www.semanticscholar.org/paper/9c9bd6bf64f668a099663aaae62bacb0e2d788c4"
     },
     {
+        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
+        "author": "Jiasheng Zhang, Ali Maatouk, Jialin Chen, Ngoc Bui, Qianqian Xie, L. Tassiulas, Hua Xu, Jie Shao, Rex Ying",
+        "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/a1a44ce18447c8090577fe5c45caa788634ae273"
+    },
+    {
         "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts",
         "author": "Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, L. Tassiulas, Menglin Yang, Rex Ying",
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/b48eb1e524423cf35fd565cfd50c9a790e2ad85b"
+    },
+    {
+        "title": "On-Device Multimodal Federated Learning for Efficient Jamming Detection",
+        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/b97f7dbab433c5ef22bab475621a11c1b971b918"
     },
     {
         "title": "TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval",
@@ -124,19 +138,5 @@
         "venue": "ICC 2024 - IEEE International Conference on Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
-    },
-    {
-        "title": "Adaptive Heterogeneous Client Sampling for Federated Learning Over Wireless Networks",
-        "author": "Bing Luo, Wenli Xiao, Shiqiang Wang, Jianwei Huang, L. Tassiulas",
-        "venue": "IEEE Transactions on Mobile Computing",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/aa92f95b77b7246644e2ce06a62e470f15a08494"
-    },
-    {
-        "title": "Over-the-Air Federated Learning via Weighted Aggregation",
-        "author": "Seyed Mohammad Azimi-Abarghouyi, L. Tassiulas",
-        "venue": "IEEE Transactions on Wireless Communications",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/afd49df0b735e37f61dcc04474406b80b4c3ae19"
     }
 ]
