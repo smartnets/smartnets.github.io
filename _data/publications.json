@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
     },
     {
+        "title": "D2Q Synchronizer: Distributed SDN Synchronization for Time Sensitive Applications",
+        "author": "Ioannis Panitsas, Akrit Mudvari, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/6716f4e4ced0ea83b43990fafcf26ffc492f00b4"
+    },
+    {
         "title": "Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting",
         "author": "Eftychia Makri, Georgios Palaiokrassas, Sarah Bouraga, Antigoni Polychroniadou, L. Tassiulas",
         "venue": "arXiv.org",
@@ -54,6 +61,13 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/dd803543cf260c90d127bc9f0f1bdf1f140e970a"
+    },
+    {
+        "title": "Agoran: An Agentic Open Marketplace for 6G RAN Automation",
+        "author": "Ilias Chatzistefanidis, Navid Nikaein, Andrea Leone, Ali Maatouk, L. Tassiulas, Roberto Morabito, Ioannis Pitsiorlas, Marios Kountouris",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/ffa966e697542388284465ff9f01b0cdf9cbd017"
     },
     {
         "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
@@ -124,19 +138,5 @@
         "venue": "AAAI Conference on Artificial Intelligence",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/5dfd011338b253b67d6dad30fd651e52a298ab92"
-    },
-    {
-        "title": "Throughput-Optimal Scheduling via Rate Learning",
-        "author": "Panagiotis Promponas, V\u00edctor Valls, Konstantinos E. Nikolakakis, Dionysis Kalogerias, L. Tassiulas",
-        "venue": "IEEE Conference on Decision and Control",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/77a922e042a33004904a8766cc99f3befdc5c1fb"
-    },
-    {
-        "title": "Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks",
-        "author": "Yagmur Yigit, Ioannis Panitsas, Leandros A. Maglaras, L. Tassiulas, B. Canberk",
-        "venue": "ICC 2024 - IEEE International Conference on Communications",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/9ce0c5e9b42bc8402b931db99b8f8a6f7703234a"
     }
 ]
