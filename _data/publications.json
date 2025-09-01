@@ -35,6 +35,13 @@
         "url": "https://www.semanticscholar.org/paper/9c9bd6bf64f668a099663aaae62bacb0e2d788c4"
     },
     {
+        "title": "Multi-policy reinforcement learning for network resource allocation with periodic behaviors",
+        "author": "Zheyu Chen, Kin K. Leung, Shiqiang Wang, L. Tassiulas, Kevin S. Chan, Patrick J. Baker",
+        "venue": "Computer Networks",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/9f3e8c8fd256474ce1f8454bad74a4cc22573abe"
+    },
+    {
         "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
         "author": "Jiasheng Zhang, Ali Maatouk, Jialin Chen, Ngoc Bui, Qianqian Xie, L. Tassiulas, Hua Xu, Jie Shao, Rex Ying",
         "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
@@ -131,12 +138,5 @@
         "venue": "International Conference on Blockchain",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/5d60c3d10b9bf03a6d7552a681d664e2965aa18a"
-    },
-    {
-        "title": "An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control",
-        "author": "Aosong Feng, Weikang Qiu, Jinbin Bai, Kaicheng Zhou, Zhen Dong, Xiao Zhang, Rex Ying, L. Tassiulas",
-        "venue": "AAAI Conference on Artificial Intelligence",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/5dfd011338b253b67d6dad30fd651e52a298ab92"
     }
 ]
