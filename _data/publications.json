@@ -14,9 +14,16 @@
         "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
     },
     {
+        "title": "Weighted Over-the-Air Federated Learning",
+        "author": "Seyed Mohammad Azimi-Abarghouyi, L. Tassiulas, Carlo Fischione",
+        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/61e4149cc9aaead80c480eb611d0c0a76dc3e087"
+    },
+    {
         "title": "D2Q Synchronizer: Distributed SDN Synchronization for Time Sensitive Applications",
         "author": "Ioannis Panitsas, Akrit Mudvari, L. Tassiulas",
-        "venue": "arXiv.org",
+        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/6716f4e4ced0ea83b43990fafcf26ffc492f00b4"
     },
@@ -114,7 +121,7 @@
     {
         "title": "SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate",
         "author": "Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, L. Tassiulas, Rex Ying",
-        "venue": "arXiv.org",
+        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/485ce3a47b7b80fac6888ba4b19613fdae1445e4"
     },
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/579574a24bdc85f5305684f6be30c676707d433a"
-    },
-    {
-        "title": "Machine Learning in DeFi: Credit Risk Assessment and Liquidation Prediction",
-        "author": "Georgios Palaiokrassas, S. Scherrers, Eftychia Makri, L. Tassiulas",
-        "venue": "International Conference on Blockchain",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/5d60c3d10b9bf03a6d7552a681d664e2965aa18a"
     }
 ]
