@@ -1,5 +1,12 @@
 [
     {
+        "title": "Accelerating Network Slice Placement with Multi-Agent Reinforcement Learning",
+        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/1a93e94dc09d662591ec48b622745281bc9bd743"
+    },
+    {
         "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
         "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, Dusit Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, Keith Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, Louis Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, Maxime Elkael, Mehdi Bennis, M. Boudjelli, Meiling Dai, M\u00e9rouane Debbah, Michele Polese, M. Assaad, Mohamed Benzaghta, Mohammad Hayel Al Refai, Moussab Djerrab, Mubeen Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. Zaidi, Tianjiao Chen, Timothy Murphy, Tommaso Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
         "venue": "arXiv.org",
@@ -37,7 +44,7 @@
     {
         "title": "JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks",
         "author": "Ioannis Panitsas, Yagmur Yigit, L. Tassiulas, Leandros A. Maglaras, Berk Canberk",
-        "venue": "arXiv.org",
+        "venue": "ICC 2025 - IEEE International Conference on Communications",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/9c9bd6bf64f668a099663aaae62bacb0e2d788c4"
     },
@@ -54,6 +61,13 @@
         "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/a1a44ce18447c8090577fe5c45caa788634ae273"
+    },
+    {
+        "title": "5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs",
+        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/aa9ac4b7a76f096975fed85bb7f1e6fb01b536e5"
     },
     {
         "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts",
@@ -124,19 +138,5 @@
         "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/485ce3a47b7b80fac6888ba4b19613fdae1445e4"
-    },
-    {
-        "title": "SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization",
-        "author": "Akrit Mudvari, Yuang Jiang, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/4956d7008724b77ab908f9b42116b1678750d56d"
-    },
-    {
-        "title": "Tele-LLMs: A Series of Specialized Large Language Models for Telecommunications",
-        "author": "Ali Maatouk, Kenny Chirino Ampudia, Rex Ying, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/579574a24bdc85f5305684f6be30c676707d433a"
     }
 ]
