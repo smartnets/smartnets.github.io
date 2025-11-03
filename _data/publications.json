@@ -56,13 +56,6 @@
         "url": "https://www.semanticscholar.org/paper/9f3e8c8fd256474ce1f8454bad74a4cc22573abe"
     },
     {
-        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
-        "author": "Jiasheng Zhang, Ali Maatouk, Jialin Chen, Ngoc Bui, Qianqian Xie, L. Tassiulas, Hua Xu, Jie Shao, Rex Ying",
-        "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/a1a44ce18447c8090577fe5c45caa788634ae273"
-    },
-    {
         "title": "5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs",
         "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
         "venue": "arXiv.org",
@@ -127,8 +120,8 @@
     },
     {
         "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
-        "author": "Jiasheng Zhang, Jialin Chen, Ali Maatouk, Ngoc Bui, Qianqian Xie, L. Tassiulas, Jie Shao, Hua Xu, Rex Ying",
-        "venue": "arXiv.org",
+        "author": "Jiasheng Zhang, Ali Maatouk, Jialin Chen, Ngoc Bui, Qianqian Xie, L. Tassiulas, Hua Xu, Jie Shao, Rex Ying",
+        "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/426a2db9d0c96b1d43a948be7e827c9eb3a3b0b5"
     },
@@ -138,5 +131,12 @@
         "venue": "IEEE Journal on Selected Areas in Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
+    },
+    {
+        "title": "SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate",
+        "author": "Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, L. Tassiulas, Rex Ying",
+        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/485ce3a47b7b80fac6888ba4b19613fdae1445e4"
     }
 ]
