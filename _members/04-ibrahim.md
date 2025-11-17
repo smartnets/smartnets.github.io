@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Eftychia Makri
-permalink: /members/eftychia_makri
+title: Md Ibrahim Ibne Alam
+permalink: /members/md_ibrahim_ibne_alam
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false
@@ -9,7 +9,7 @@ show_date: false
 article:
   type: normal
   show_cover: false
-position: PhD Student
+position: Postdoctoral Associate
 location: New Haven • CT • USA
 email: "email (at) yale.edu"
 google_scholar: "http://www.google.com"

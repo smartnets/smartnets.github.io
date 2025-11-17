@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Akrit Mudvari
-permalink: /members/akrit_mudvari
+title: Nikolaos Koumpis
+permalink: /members/nikolaos_koumpis
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false
@@ -9,7 +9,7 @@ show_date: false
 article:
   type: normal
   show_cover: false
-position: PhD Candidate
+position: PhD Student
 location: New Haven • CT • USA
 email: "email (at) yale.edu"
 google_scholar: "http://www.google.com"

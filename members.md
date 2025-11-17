@@ -22,3 +22,5 @@ articles:
 * Nikolaos Papadis, PhD
 * Yuang Jiang, PhD
 * Nick Nordlund, PhD
+* Akrit Mudvari, PhD
+* Aosong Feng, PhD

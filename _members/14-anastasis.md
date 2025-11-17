@@ -1,7 +1,7 @@
 ---
 layout: profile
-title: Aosong Feng
-permalink: /members/aosong_feng
+title: Anastasios Varvarigos
+permalink: /members/anastasios_varvarigos
 key: page-aside
 cover: /assets/images/dummy-profile.jpeg
 show_title: false
@@ -9,7 +9,7 @@ show_date: false
 article:
   type: normal
   show_cover: false
-position: PhD Candidate
+position: Research Assistant
 location: New Haven • CT • USA
 email: "email (at) yale.edu"
 google_scholar: "http://www.google.com"
