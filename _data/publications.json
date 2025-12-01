@@ -84,6 +84,13 @@
         "url": "https://www.semanticscholar.org/paper/d68401e05c3420cc3fbe4d5c9b3d5cbe5e79d0b6"
     },
     {
+        "title": "Towards Unsupervised Drift Detection in Programmable Data-Planes",
+        "author": "Kaiyi Zhang, N. Samaan, Ahmed Karmouch, L. Tassiulas",
+        "venue": "Proceedings of the ACM CoNEXT Workshop on In-Network Computing and AI for Distributed Systems",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/d7223dc1648df116b72b761c03aea2a9be1ba10c"
+    },
+    {
         "title": "TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval",
         "author": "Jialin Chen, Ziyu Zhao, G. Nurbek, Aosong Feng, Ali Maatouk, L. Tassiulas, Yifeng Gao, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "IEEE Journal on Selected Areas in Communications",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
-    },
-    {
-        "title": "SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate",
-        "author": "Yifei Jin, Ali Maatouk, Sarunas Girdzijauskas, Shugong Xu, L. Tassiulas, Rex Ying",
-        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/485ce3a47b7b80fac6888ba4b19613fdae1445e4"
     }
 ]
