@@ -98,6 +98,13 @@
         "url": "https://www.semanticscholar.org/paper/dd803543cf260c90d127bc9f0f1bdf1f140e970a"
     },
     {
+        "title": "EC-Sense: Radio Energy Capture for Ultra-Low-Power Wireless Soil Moisture Sensing",
+        "author": "Yoganand Biradavolu, Jian Ding, Bhuvana Krishnaswamy, L. Tassiulas, Vaishnavi Ranganathan",
+        "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/f962c978b1971985511f18220ca73206a3c2ca87"
+    },
+    {
         "title": "Agoran: An Agentic Open Marketplace for 6G RAN Automation",
         "author": "Ilias Chatzistefanidis, Navid Nikaein, Andrea Leone, Ali Maatouk, L. Tassiulas, Roberto Morabito, Ioannis Pitsiorlas, Marios Kountouris",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/426a2db9d0c96b1d43a948be7e827c9eb3a3b0b5"
-    },
-    {
-        "title": "Maximizing Entanglement Rates via Efficient Memory Management in Flexible Quantum Switches",
-        "author": "Panagiotis Promponas, V\u00edctor Valls, Saikat Guha, L. Tassiulas",
-        "venue": "IEEE Journal on Selected Areas in Communications",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/43f41fb5e31eb761f24919c9907ccb4f203f3d50"
     }
 ]
