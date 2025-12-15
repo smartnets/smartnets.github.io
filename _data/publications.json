@@ -1,12 +1,5 @@
 [
     {
-        "title": "Accelerating Network Slice Placement with Multi-Agent Reinforcement Learning",
-        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/1a93e94dc09d662591ec48b622745281bc9bd743"
-    },
-    {
         "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
         "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, Dusit Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, Keith Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, Louis Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, Maxime Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, M. Assaad, Mohamed Benzaghta, Mohammad Hayel Al Refai, Moussab Djerrab, Mubeen Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. Zaidi, Tianjiao Chen, Timothy Murphy, Tommaso Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
         "venue": "arXiv.org",
@@ -35,6 +28,13 @@
         "url": "https://www.semanticscholar.org/paper/6716f4e4ced0ea83b43990fafcf26ffc492f00b4"
     },
     {
+        "title": "Scheduling in Quantum Satellite Networks: Fairness and Performance Optimization",
+        "author": "Ashutosh Jayant Dikshit, Naga Lakshmi Anipeddi, Prajit Dhara, Saikat Guha, Deirdre Kilbane, L. Tassiulas, Don Towsley, Nitish K. Panigrahy",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/6823156b1efdc1b766f4d7418a28085a9fdcccc0"
+    },
+    {
         "title": "Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting",
         "author": "Eftychia Makri, Georgios Palaiokrassas, Sarah Bouraga, Antigoni Polychroniadou, L. Tassiulas",
         "venue": "arXiv.org",
@@ -49,11 +49,25 @@
         "url": "https://www.semanticscholar.org/paper/9c9bd6bf64f668a099663aaae62bacb0e2d788c4"
     },
     {
+        "title": "SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures",
+        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/9f0219adf581ba7db9954bed276cf656011a21d0"
+    },
+    {
         "title": "Multi-policy reinforcement learning for network resource allocation with periodic behaviors",
         "author": "Zheyu Chen, Kin K. Leung, Shiqiang Wang, L. Tassiulas, Kevin S. Chan, Patrick J. Baker",
         "venue": "Comput. Networks",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/9f3e8c8fd256474ce1f8454bad74a4cc22573abe"
+    },
+    {
+        "title": "FedJam: Multimodal Federated Learning Framework for Jamming Detection",
+        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/a818e49b76caba59abdd71724b3fc8e223eca03e"
     },
     {
         "title": "5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs",
@@ -68,13 +82,6 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/b48eb1e524423cf35fd565cfd50c9a790e2ad85b"
-    },
-    {
-        "title": "On-Device Multimodal Federated Learning for Efficient Jamming Detection",
-        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/b97f7dbab433c5ef22bab475621a11c1b971b918"
     },
     {
         "title": "TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis",
@@ -107,7 +114,7 @@
     {
         "title": "Agoran: An Agentic Open Marketplace for 6G RAN Automation",
         "author": "Ilias Chatzistefanidis, Navid Nikaein, Andrea Leone, Ali Maatouk, L. Tassiulas, Roberto Morabito, Ioannis Pitsiorlas, Marios Kountouris",
-        "venue": "arXiv.org",
+        "venue": "Computer Networks",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/ffa966e697542388284465ff9f01b0cdf9cbd017"
     },
@@ -131,12 +138,5 @@
         "venue": "Neural Information Processing Systems",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/39fbce781d28b36ad41bd897e0a0ca71a285351a"
-    },
-    {
-        "title": "LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs",
-        "author": "Jiasheng Zhang, Ali Maatouk, Jialin Chen, Ngoc Bui, Qianqian Xie, L. Tassiulas, Hua Xu, Jie Shao, Rex Ying",
-        "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/426a2db9d0c96b1d43a948be7e827c9eb3a3b0b5"
     }
 ]
