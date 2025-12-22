@@ -84,6 +84,13 @@
         "url": "https://www.semanticscholar.org/paper/b48eb1e524423cf35fd565cfd50c9a790e2ad85b"
     },
     {
+        "title": "An LLM Agent-Based Framework for Analytical Characterization of Nash Equilibria",
+        "author": "Wenxuan Liu, Xiyuan Zhou, Xinlei Wang, Yuheng Cheng, Lixin Ye, Randall Berry, L. Tassiulas, Jianwei Huang, Junhua Zhao",
+        "venue": "Nexus",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/d24612b20d0b95716a68db1545d984ee5dddabc9"
+    },
+    {
         "title": "TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis",
         "author": "Austin Feng, Andreas Varvarigos, Ioannis Panitsas, Daniela Fernandez, Jinbiao Wei, Yuwei Guo, Jialin Chen, Ali Maatouk, L. Tassiulas, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
         "year": 2024,
         "url": "https://www.semanticscholar.org/paper/30ee70d13733c00681c068a4190ab7edabd876d3"
-    },
-    {
-        "title": "From Similarity to Superiority: Channel Clustering for Time Series Forecasting",
-        "author": "Jialin Chen, J. E. Lenssen, Aosong Feng, Weihua Hu, Matthias Fey, L. Tassiulas, J. Leskovec, Rex Ying",
-        "venue": "Neural Information Processing Systems",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/39fbce781d28b36ad41bd897e0a0ca71a285351a"
     }
 ]
