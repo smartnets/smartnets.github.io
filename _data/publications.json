@@ -1,5 +1,26 @@
 [
     {
+        "title": "Multi-Modal Time Series Prediction via Mixture of Modulated Experts",
+        "author": "Lige Zhang, Ali Maatouk, Jialin Chen, L. Tassiulas, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
+    },
+    {
+        "title": "Modeling RIS for Multi-User Resource Allocation Under Pricing-Aware Policies",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, L. Tassiulas, Christos K. Liaskos",
+        "venue": "IEEE Access",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/ce5d8f5d435dfb98fa7b09f29c45f2fea7ecad89"
+    },
+    {
+        "title": "Towards In-Network Drift-Aware Traffic Classification",
+        "author": "Kaiyi Zhang, N. Samaan, Ahmed Karmouch, L. Tassiulas",
+        "venue": "Conference on Network Function Virtualization and Software Defined Network",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/1f25e8f149426bff01c969a3875a88bf9c39852c"
+    },
+    {
         "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
         "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, Dusit Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, Keith Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, Louis Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, Maxime Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, M. Assaad, Mohamed Benzaghta, Mohammad Hayel Al Refai, Moussab Djerrab, Mubeen Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, Tommaso Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
         "venue": "arXiv.org",
@@ -117,26 +138,5 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/dd803543cf260c90d127bc9f0f1bdf1f140e970a"
-    },
-    {
-        "title": "EC-Sense: Radio Energy Capture for Ultra-Low-Power Wireless Soil Moisture Sensing",
-        "author": "Yoganand Biradavolu, Jian Ding, Bhuvana Krishnaswamy, L. Tassiulas, Vaishnavi Ranganathan",
-        "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/f962c978b1971985511f18220ca73206a3c2ca87"
-    },
-    {
-        "title": "Agoran: An Agentic Open Marketplace for 6G RAN Automation",
-        "author": "Ilias Chatzistefanidis, Navid Nikaein, Andrea Leone, Ali Maatouk, L. Tassiulas, Roberto Morabito, Ioannis Pitsiorlas, Marios Kountouris",
-        "venue": "Comput. Networks",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/ffa966e697542388284465ff9f01b0cdf9cbd017"
-    },
-    {
-        "title": "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals",
-        "author": "Jian Ding, Ranveer Chandra, Rattan Lal, L. Tassiulas",
-        "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
-        "year": 2024,
-        "url": "https://www.semanticscholar.org/paper/038f7ae9b1ad0ef12f0a06db35df288183b82fd4"
     }
 ]
