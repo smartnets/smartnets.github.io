@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
     },
     {
+        "title": "Benchmark for Assessing Olfactory Perception of Large Language Models",
+        "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, L. Tassiulas, V. Satarifard, Nicholas A Christakis",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/65102a690ed1b4481a2bd78be03109fe0e30ce1f"
+    },
+    {
         "title": "HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation",
         "author": "Hiren Madhu, Ngoc Bui, Ali Maatouk, L. Tassiulas, Smita Krishnaswamy, Menglin Yang, Sukanta Ganguly, K. Srinivasan, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/aa9ac4b7a76f096975fed85bb7f1e6fb01b536e5"
-    },
-    {
-        "title": "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts",
-        "author": "Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, L. Tassiulas, Menglin Yang, Rex Ying",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/b48eb1e524423cf35fd565cfd50c9a790e2ad85b"
     }
 ]
