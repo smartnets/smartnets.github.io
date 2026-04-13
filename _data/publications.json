@@ -1,5 +1,12 @@
 [
     {
+        "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
+        "author": "Ioannis Panitsas, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/20746826f4fc68e6d9ea8e303076f13ae4c64be3"
+    },
+    {
         "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
         "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jialin Chen, L. Tassiulas, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/a818e49b76caba59abdd71724b3fc8e223eca03e"
-    },
-    {
-        "title": "5GC-Bench: A Framework for Stress-Testing and Benchmarking 5G Core VNFs",
-        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/aa9ac4b7a76f096975fed85bb7f1e6fb01b536e5"
     }
 ]
