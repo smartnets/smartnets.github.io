@@ -28,6 +28,13 @@
         "url": "https://www.semanticscholar.org/paper/65102a690ed1b4481a2bd78be03109fe0e30ce1f"
     },
     {
+        "title": "Editorial: Emerging optimization, learning and signal processing for next-generation wireless communications and networking",
+        "author": "Dionysis Kalogerias, Le Liang, Mark Eisen, Athina P. Petropulu, L. Tassiulas",
+        "venue": "Frontiers in Signal Processing",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/add077c993e58ab9f962dad11399a0c71526457d"
+    },
+    {
         "title": "HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation",
         "author": "Hiren Madhu, Ngoc Bui, Ali Maatouk, L. Tassiulas, Smita Krishnaswamy, Menglin Yang, Sukanta Ganguly, K. Srinivasan, Rex Ying",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "Comput. Networks",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/9f3e8c8fd256474ce1f8454bad74a4cc22573abe"
-    },
-    {
-        "title": "FedJam: Multimodal Federated Learning Framework for Jamming Detection",
-        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/a818e49b76caba59abdd71724b3fc8e223eca03e"
     }
 ]
