@@ -21,6 +21,13 @@
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
     },
     {
+        "title": "CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification",
+        "author": "Iason Ofeidis, Nikos Papadis, Randeep Bhatia, L. Tassiulas, Tv Lakshman",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/3a4df06e8ac0b5661529c7c0a0c5c97fe3a0c3b0"
+    },
+    {
         "title": "Benchmark for Assessing Olfactory Perception of Large Language Models",
         "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, L. Tassiulas, V. Satarifard, Nicholas A Christakis",
         "venue": "arXiv.org",
@@ -58,9 +65,16 @@
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
         "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, L. Tassiulas",
-        "venue": "arXiv.org",
+        "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
+    },
+    {
+        "title": "Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design",
+        "author": "Seyed Mohammad Azimi-Abarghouyi, Mehdi Bennis, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/f59093d4676ef7d58fc81cd9a8934e74c0e2321c"
     },
     {
         "title": "Towards In-Network Drift-Aware Traffic Classification",
@@ -124,19 +138,5 @@
         "venue": "ICC 2025 - IEEE International Conference on Communications",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/9c9bd6bf64f668a099663aaae62bacb0e2d788c4"
-    },
-    {
-        "title": "SlicePilot: Demystifying Network Slice Placement in Heterogeneous Cloud Infrastructures",
-        "author": "Ioannis Panitsas, Tolga O. Atalay, Dragoslav Stojadinovic, A. Stavrou, L. Tassiulas",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/9f0219adf581ba7db9954bed276cf656011a21d0"
-    },
-    {
-        "title": "Multi-policy reinforcement learning for network resource allocation with periodic behaviors",
-        "author": "Zheyu Chen, Kin K. Leung, Shiqiang Wang, L. Tassiulas, Kevin S. Chan, Patrick J. Baker",
-        "venue": "Comput. Networks",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/9f3e8c8fd256474ce1f8454bad74a4cc22573abe"
     }
 ]
