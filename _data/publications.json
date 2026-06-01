@@ -42,6 +42,13 @@
         "url": "https://www.semanticscholar.org/paper/65102a690ed1b4481a2bd78be03109fe0e30ce1f"
     },
     {
+        "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
+        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yifeng Gao, L. Tassiulas, Rex Ying",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
+    },
+    {
         "title": "Editorial: Emerging optimization, learning and signal processing for next-generation wireless communications and networking",
         "author": "Dionysis Kalogerias, Le Liang, Mark Eisen, Athina P. Petropulu, L. Tassiulas",
         "venue": "Frontiers in Signal Processing",
@@ -92,7 +99,7 @@
     },
     {
         "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
-        "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, D. Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, K. Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, L. Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, Maxime Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, Mohamad Assaad, Mohamed Benzaghta, Mohammad Al Refai, Moussab Djerrab, M. Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, T. Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
+        "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, D. Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, K. Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, L. Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, M. Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, Mohamad Assaad, Mohamed Benzaghta, Mohammad Al Refai, Moussab Djerrab, M. Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, T. Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/3e6e4b23265fd2852aac3b8d75903e4499d4e319"
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/6823156b1efdc1b766f4d7418a28085a9fdcccc0"
-    },
-    {
-        "title": "Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting",
-        "author": "Eftychia Makri, Georgios Palaiokrassas, Sarah Bouraga, Antigoni Polychroniadou, L. Tassiulas",
-        "venue": "Conference on Blockchain Research & Applications for Innovative Networks and Services",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/95d0b5a14c6b9361b1d12d59c38e4f3cef97c819"
     }
 ]
