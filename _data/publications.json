@@ -9,7 +9,7 @@
     {
         "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
         "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jialin Chen, L. Tassiulas, Rex Ying",
-        "venue": "arXiv.org",
+        "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24425a9c777d2b633f9678ee057f9aed68f00e20"
     },
@@ -33,6 +33,20 @@
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/43d00baab0fd0546adc7207468ca9a956ba0d53e"
+    },
+    {
+        "title": "Age Optimal Sampling for Unreliable Channels Under Unknown Channel Statistics",
+        "author": "Hongyi He, Haoyue Tang, Jiayu Pan, Jintao Wang, Jian Song, L. Tassiulas",
+        "venue": "IEEE Transactions on Mobile Computing",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/4fbcfca50d5d0118055356e624e34af29589bafa"
+    },
+    {
+        "title": "A Deep and Transfer Learning Approach for Handover Management in O-RAN",
+        "author": "Ioannis Panitsas, Akrit Mudvari, Ali Maatouk, L. Tassiulas",
+        "venue": "IEEE Wireless Communications and Networking Conference",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/5eab763753a684e1d605d0eca04631e0b0aa8fb7"
     },
     {
         "title": "Benchmark for Assessing Olfactory Perception of Large Language Models",
@@ -78,7 +92,7 @@
     },
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
-        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, L. Tassiulas",
+        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Donald F. Towsley, L. Tassiulas",
         "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
@@ -124,19 +138,5 @@
         "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/61e4149cc9aaead80c480eb611d0c0a76dc3e087"
-    },
-    {
-        "title": "D2Q Synchronizer: Distributed SDN Synchronization for Time Sensitive Applications",
-        "author": "Ioannis Panitsas, Akrit Mudvari, L. Tassiulas",
-        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/6716f4e4ced0ea83b43990fafcf26ffc492f00b4"
-    },
-    {
-        "title": "Scheduling in Quantum Satellite Networks: Fairness and Performance Optimization",
-        "author": "Ashutosh Jayant Dikshit, Naga Lakshmi Anipeddi, Prajit Dhara, Saikat Guha, Deirdre Kilbane, L. Tassiulas, Don Towsley, Nitish K. Panigrahy",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/6823156b1efdc1b766f4d7418a28085a9fdcccc0"
     }
 ]
