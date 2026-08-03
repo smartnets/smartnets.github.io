@@ -1,5 +1,12 @@
 [
     {
+        "title": "A Novel Framework for Fair Resource Allocation in RIS-Enabled Networks",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, L. Tassiulas, Christos K. Liaskos",
+        "venue": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/08fd95fd0478d84d90e78fc4327c4a02d3a179a9"
+    },
+    {
         "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
         "author": "Ioannis Panitsas, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
-    },
-    {
-        "title": "Weighted Over-the-Air Federated Learning",
-        "author": "Seyed Mohammad Azimi-Abarghouyi, L. Tassiulas, Carlo Fischione",
-        "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/61e4149cc9aaead80c480eb611d0c0a76dc3e087"
     }
 ]
