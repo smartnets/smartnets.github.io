@@ -28,6 +28,13 @@
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
     },
     {
+        "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
+        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/2f5a790ed649befcbe70888f5402ffb3fb6d9137"
+    },
+    {
         "title": "CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification",
         "author": "Iason Ofeidis, Nikos Papadis, Randeep Bhatia, L. Tassiulas, Tv Lakshman",
         "venue": "arXiv.org",
@@ -36,10 +43,17 @@
     },
     {
         "title": "Rank Is Not Capacity: Spectral Occupancy for Latent Graph Models",
-        "author": "Nikolaos Nakis, Panagiotis Promponas, K. Tsirkas, Katerina Mamali, Eftychia Makri, L. Tassiulas, Nicholas A Christakis",
+        "author": "Nikolaos Nakis, Panagiotis Promponas, K. Tsirkas, Katerina Mamali, Eftychia Makri, L. Tassiulas, Nicholas A. Christakis",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/43d00baab0fd0546adc7207468ca9a956ba0d53e"
+    },
+    {
+        "title": "FedJam: Multimodal Federated Learning Framework for Jamming Detection",
+        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
+        "venue": "IEEE Conference on Computer Communications",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/4cb99a9888b7b702472ea3599b9fc986c76f8ac4"
     },
     {
         "title": "Age Optimal Sampling for Unreliable Channels Under Unknown Channel Statistics",
@@ -57,7 +71,7 @@
     },
     {
         "title": "Benchmark for Assessing Olfactory Perception of Large Language Models",
-        "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, L. Tassiulas, V. Satarifard, Nicholas A Christakis",
+        "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, L. Tassiulas, V. Satarifard, Nicholas A. Christakis",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/65102a690ed1b4481a2bd78be03109fe0e30ce1f"
@@ -93,7 +107,7 @@
     {
         "title": "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings",
         "author": "Yidong Jiang, Junrong Chen, Eftychia Makri, Jialin Chen, P. Li, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
-        "venue": "arXiv.org",
+        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/d835a07d58fe4d878a103ee55a3f13e213d34244"
     },
@@ -120,23 +134,9 @@
     },
     {
         "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
-        "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, D. Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, Howard H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, K. Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, L. Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, M. Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, Mohamad Assaad, Mohamed Benzaghta, Mohammad Al Refai, Moussab Djerrab, M. Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, T. Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
+        "author": "Adnan Shahid, A. Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, D. Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, K. Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, L. Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, M. Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, Mohamad Assaad, Mohamed Benzaghta, Mohammad Al Refai, Moussab Djerrab, M. Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, P. Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, T. Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
         "venue": "arXiv.org",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/3e6e4b23265fd2852aac3b8d75903e4499d4e319"
-    },
-    {
-        "title": "SemanticRF: Towards Robust RF Scene Retrieval Using Natural Language Supervision",
-        "author": "Trey Crump, Ali Maatouk, Kemal Davaslioglu, S. Kompella, L. Tassiulas",
-        "venue": "IEEE Military Communications Conference",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/4b13efc74df2887a9f17ad20894f49c8e8000849"
-    },
-    {
-        "title": "MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering",
-        "author": "Jialin Chen, Aosong Feng, Ziyu Zhao, Juan Garza, G. Nurbek, Chengwei Qin, Ali Maatouk, L. Tassiulas, Yifeng Gao, Rex Ying",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/4ca680d5493dcf0a0ea7cb8aca736f922e80e6df"
     }
 ]
