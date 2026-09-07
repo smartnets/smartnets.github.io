@@ -7,6 +7,13 @@
         "url": "https://www.semanticscholar.org/paper/08fd95fd0478d84d90e78fc4327c4a02d3a179a9"
     },
     {
+        "title": "Contribution-Aware Bandwidth Allocation for Multimodal Split Learning",
+        "author": "Iason Ofeidis, L. Tassiulas",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/0cae1d060690b1c04b15b148589695f8bf961d94"
+    },
+    {
         "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
         "author": "Ioannis Panitsas, L. Tassiulas",
         "venue": "arXiv.org",
@@ -26,13 +33,6 @@
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
-    },
-    {
-        "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
-        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
-        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
-        "year": 2026,
-        "url": "https://www.semanticscholar.org/paper/2f5a790ed649befcbe70888f5402ffb3fb6d9137"
     },
     {
         "title": "CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification",
@@ -119,6 +119,13 @@
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
     },
     {
+        "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
+        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/e7a5505dbbd4b122a935ceb69783ba56180c8b5d"
+    },
+    {
         "title": "Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design",
         "author": "Seyed Mohammad Azimi-Abarghouyi, Mehdi Bennis, L. Tassiulas",
         "venue": "arXiv.org",
@@ -131,12 +138,5 @@
         "venue": "Conference on Network Function Virtualization and Software Defined Network",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/1f25e8f149426bff01c969a3875a88bf9c39852c"
-    },
-    {
-        "title": "Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences",
-        "author": "Adnan Shahid, Adrian Kliks, Ahmed Al-Tahmeesschi, Ahmed Elbakary, Alexandros Nikou, Ali Maatouk, A. Mokh, Amirreza Kazemi, Antonio De Domenico, Athanasios Karapantelakis, Bo Cheng, Bo Yang, Bohao Wang, Carlo Fischione, Chao Zhang, Chaouki Ben Issaid, Chau Yuen, Chen-Shuo Peng, Chongwen Huang, C. Chaccour, C. K. Thomas, Dheeraj Sharma, Dimitris Kalogiros, D. Niyato, E. D. Poorter, Elissa Mhanna, E. Strinati, Faouzi Bader, Fathi Abdeldayem, Fei Wang, Feng-zheng Zhu, G. Fontanesi, Giovanni Geraci, Haibo Zhou, Hakimeh Purmehdi, Hamed Ahmadi, Han Zou, Hongyang Du, Hoon Lee, H. Yang, Iacopo Poli, I. Carron, Ilias Chatzistefanidis, Inkyu Lee, Ioannis Pitsiorlas, Jaron Fontaine, Jiajun Wu, Jie Zeng, Jinan Li, Jinane Karam, Johny Gemayel, Juan Deng, Julien Frison, Kaibin Huang, Kehai Qiu, K. Ball, Kezhi Wang, Kun Guo, L. Tassiulas, Lecorve Gwenole, Liexiang Yue, Lina Bariah, L. Powell, Marcin Dryja\u0144ski, Maria Amparo Canaveras Galdon, M. Kountouris, Maryam Hafeez, M. Elkael, Mehdi Bennis, M. Boudjelli, M. Dai, M\u00e9rouane Debbah, Michele Polese, Mohamad Assaad, Mohamed Benzaghta, Mohammad Al Refai, Moussab Djerrab, M. Syed, Muhammad Amir, Na Yan, N. Alkaabi, Nan Li, Nassim Sehad, Navid Nikaein, Omar Hashash, Pawe\u0142 Sroka, Qianqian Yang, Qiyang Zhao, Rasoul Nikbakht Silab, Rex Ying, Roberto Morabito, Rongpeng Li, Ryad Madi, Salah Eddine El Ayoubi, Salvatore D\u2019oro, S. Lasaulce, Serveh Shalmashi, Sige Liu, Sihem Cherrared, S. Chetty, Swastika Dutta, S. A. R. Zaidi, Tianjiao Chen, Timothy Murphy, T. Melodia, Tony Q. S. Quek, Vishnu Ram, Walid Saad, W. Hamidouche, Weilong Chen, Xiaoou Liu, Xiaoxue Yu, Xijun Wang, Xingyu Shang, Xinquan Wang, Xue Cao, Yang Su, Yanping Liang, Yansha Deng, Yifan Yang, Ying Cui, Yu Sun, Yuxuan Chen, Y. Pointurier, Z. Nehme, Zeinab Nezami, Zhaohui Yang, Zhaoyang Zhang, Zhe Liu, Zhenyu Yang, Zhu Han, Zhuangyao Zhou, Zihan Chen, Zirui Chen, Zitao Shuai",
-        "venue": "arXiv.org",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/3e6e4b23265fd2852aac3b8d75903e4499d4e319"
     }
 ]
