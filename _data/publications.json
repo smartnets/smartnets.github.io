@@ -78,14 +78,14 @@
     },
     {
         "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
-        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yifeng Gao, L. Tassiulas, Rex Ying",
+        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, L. Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
     },
     {
         "title": "Editorial: Emerging optimization, learning and signal processing for next-generation wireless communications and networking",
-        "author": "Dionysis Kalogerias, Le Liang, Mark Eisen, Athina P. Petropulu, L. Tassiulas",
+        "author": "Dionysis Kalogerias, Le Liang, Mark Eisen, Athina P. Petropulu, Leandros Tassiulas",
         "venue": "Frontiers in Signal Processing",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/add077c993e58ab9f962dad11399a0c71526457d"
@@ -106,14 +106,14 @@
     },
     {
         "title": "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings",
-        "author": "Yidong Jiang, Junrong Chen, Eftychia Makri, Jialin Chen, P. Li, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "author": "Yidong Jiang, Junrong Chen, Eftychia Makri, Jialin Chen, Pei-Ye Li, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
         "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/d835a07d58fe4d878a103ee55a3f13e213d34244"
     },
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
-        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Donald F. Towsley, L. Tassiulas",
+        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, L. Tassiulas",
         "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
@@ -134,7 +134,7 @@
     },
     {
         "title": "Towards In-Network Drift-Aware Traffic Classification",
-        "author": "Kaiyi Zhang, N. Samaan, Ahmed Karmouch, L. Tassiulas",
+        "author": "Kai-Yi Zhang, Nancy Samaan, Ahmed Karmouch, L. Tassiulas",
         "venue": "Conference on Network Function Virtualization and Software Defined Network",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/1f25e8f149426bff01c969a3875a88bf9c39852c"
