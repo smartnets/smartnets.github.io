@@ -1,84 +1,84 @@
 [
     {
         "title": "A Novel Framework for Fair Resource Allocation in RIS-Enabled Networks",
-        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, L. Tassiulas, Christos K. Liaskos",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, Leandros Tassiulas, Christos K. Liaskos",
         "venue": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/08fd95fd0478d84d90e78fc4327c4a02d3a179a9"
     },
     {
         "title": "Contribution-Aware Bandwidth Allocation for Multimodal Split Learning",
-        "author": "Iason Ofeidis, L. Tassiulas",
+        "author": "Iason Ofeidis, Leandros Tassiulas",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/0cae1d060690b1c04b15b148589695f8bf961d94"
     },
     {
         "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
-        "author": "Ioannis Panitsas, L. Tassiulas",
+        "author": "Ioannis Panitsas, Leandros Tassiulas",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/20746826f4fc68e6d9ea8e303076f13ae4c64be3"
     },
     {
         "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
-        "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jialin Chen, L. Tassiulas, Rex Ying",
+        "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jialin Chen, Leandros Tassiulas, Rex Ying",
         "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24425a9c777d2b633f9678ee057f9aed68f00e20"
     },
     {
         "title": "Multi-Modal Time Series Prediction via Mixture of Modulated Experts",
-        "author": "Lige Zhang, Ali Maatouk, Jialin Chen, L. Tassiulas, Rex Ying",
+        "author": "Li-Ge Zhang, Ali Maatouk, Jialin Chen, Karthik Charan Konduri, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
     },
     {
         "title": "CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification",
-        "author": "Iason Ofeidis, Nikos Papadis, Randeep Bhatia, L. Tassiulas, Tv Lakshman",
+        "author": "Iason Ofeidis, Nikos Papadis, Randeep Bhatia, Leandros Tassiulas, T. Lakshman",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/3a4df06e8ac0b5661529c7c0a0c5c97fe3a0c3b0"
     },
     {
         "title": "Rank Is Not Capacity: Spectral Occupancy for Latent Graph Models",
-        "author": "Nikolaos Nakis, Panagiotis Promponas, K. Tsirkas, Katerina Mamali, Eftychia Makri, L. Tassiulas, Nicholas A. Christakis",
+        "author": "Nikolaos Nakis, Panagiotis Promponas, K. Tsirkas, Katerina Mamali, Eftychia Makri, Leandros Tassiulas, Nicholas A. Christakis",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/43d00baab0fd0546adc7207468ca9a956ba0d53e"
     },
     {
         "title": "FedJam: Multimodal Federated Learning Framework for Jamming Detection",
-        "author": "Ioannis Panitsas, Iason Ofeidis, L. Tassiulas",
+        "author": "Ioannis Panitsas, Iason Ofeidis, Leandros Tassiulas",
         "venue": "IEEE Conference on Computer Communications",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/4cb99a9888b7b702472ea3599b9fc986c76f8ac4"
     },
     {
         "title": "Age Optimal Sampling for Unreliable Channels Under Unknown Channel Statistics",
-        "author": "Hongyi He, Haoyue Tang, Jiayu Pan, Jintao Wang, Jian Song, L. Tassiulas",
+        "author": "Hong-Yi He, Haoyue Tang, Jiayu Pan, Jin-Tao Wang, Jian Song, Leandros Tassiulas",
         "venue": "IEEE Transactions on Mobile Computing",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/4fbcfca50d5d0118055356e624e34af29589bafa"
     },
     {
         "title": "A Deep and Transfer Learning Approach for Handover Management in O-RAN",
-        "author": "Ioannis Panitsas, Akrit Mudvari, Ali Maatouk, L. Tassiulas",
+        "author": "Ioannis Panitsas, Akrit Mudvari, Ali Maatouk, Leandros Tassiulas",
         "venue": "IEEE Wireless Communications and Networking Conference",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/5eab763753a684e1d605d0eca04631e0b0aa8fb7"
     },
     {
         "title": "Benchmark for Assessing Olfactory Perception of Large Language Models",
-        "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, L. Tassiulas, V. Satarifard, Nicholas A. Christakis",
+        "author": "Eftychia Makri, Nikolaos Nakis, Laura Sisson, Gigi Minsky, Leandros Tassiulas, V. Satarifard, Nicholas A. Christakis",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/65102a690ed1b4481a2bd78be03109fe0e30ce1f"
     },
     {
         "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
-        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, L. Tassiulas, Rex Ying",
+        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
@@ -92,14 +92,14 @@
     },
     {
         "title": "HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation",
-        "author": "Hiren Madhu, Ngoc Bui, Ali Maatouk, L. Tassiulas, Smita Krishnaswamy, Menglin Yang, Sukanta Ganguly, K. Srinivasan, Rex Ying",
+        "author": "Hiren Madhu, Ngoc Bui, Ali Maatouk, Leandros Tassiulas, Smita Krishnaswamy, Meng-Lin Yang, Sukanta Ganguly, K. Srinivasan, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/c3788ddba6a255a09eb969b5a8ccd2d5921f53bd"
     },
     {
         "title": "Modeling RIS for Multi-User Resource Allocation Under Pricing-Aware Policies",
-        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, L. Tassiulas, Christos K. Liaskos",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, Leandros Tassiulas, Christos K. Liaskos",
         "venue": "IEEE Access",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/ce5d8f5d435dfb98fa7b09f29c45f2fea7ecad89"
@@ -113,28 +113,28 @@
     },
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
-        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, L. Tassiulas",
+        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, Leandros Tassiulas",
         "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
     },
     {
         "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
-        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, L. Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
         "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e7a5505dbbd4b122a935ceb69783ba56180c8b5d"
     },
     {
         "title": "Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design",
-        "author": "Seyed Mohammad Azimi-Abarghouyi, Mehdi Bennis, L. Tassiulas",
+        "author": "Seyed Mohammad Azimi-Abarghouyi, Mehdi Bennis, Leandros Tassiulas",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/f59093d4676ef7d58fc81cd9a8934e74c0e2321c"
     },
     {
         "title": "Towards In-Network Drift-Aware Traffic Classification",
-        "author": "Kai-Yi Zhang, Nancy Samaan, Ahmed Karmouch, L. Tassiulas",
+        "author": "Kai-Yi Zhang, Nancy Samaan, Ahmed Karmouch, Leandros Tassiulas",
         "venue": "Conference on Network Function Virtualization and Software Defined Network",
         "year": 2025,
         "url": "https://www.semanticscholar.org/paper/1f25e8f149426bff01c969a3875a88bf9c39852c"
