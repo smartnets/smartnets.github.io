@@ -22,14 +22,14 @@
     },
     {
         "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
-        "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jialin Chen, Leandros Tassiulas, Rex Ying",
+        "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jia-Lin Chen, Leandros Tassiulas, Rex Ying",
         "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24425a9c777d2b633f9678ee057f9aed68f00e20"
     },
     {
         "title": "Multi-Modal Time Series Prediction via Mixture of Modulated Experts",
-        "author": "Li-Ge Zhang, Ali Maatouk, Jialin Chen, Karthik Charan Konduri, Leandros Tassiulas, Rex Ying",
+        "author": "Li-Ge Zhang, Ali Maatouk, Jia-Lin Chen, Karthik Charan Konduri, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24b775c9bb2982e4e82f212817d19c59a6b7fde4"
@@ -78,7 +78,7 @@
     },
     {
         "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
-        "author": "Jialin Chen, Aosong Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
+        "author": "Jia-Lin Chen, Ao-Song Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
@@ -106,7 +106,7 @@
     },
     {
         "title": "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings",
-        "author": "Yidong Jiang, Junrong Chen, Eftychia Makri, Jialin Chen, Pei-Ye Li, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "author": "Yi-Dong Jiang, Jun-Rong Chen, Eftychia Makri, Jia-Lin Chen, Pei-Ye Li, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
         "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/d835a07d58fe4d878a103ee55a3f13e213d34244"
@@ -120,7 +120,7 @@
     },
     {
         "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
-        "author": "Eftychia Makri, Peiwen Li, Yidong Jiang, Junrong Chen, Jialin Chen, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "author": "Eftychia Makri, Peiwen Li, Yi-Dong Jiang, Jun-Rong Chen, Jia-Lin Chen, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
         "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e7a5505dbbd4b122a935ceb69783ba56180c8b5d"
