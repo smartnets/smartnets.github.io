@@ -14,6 +14,13 @@
         "url": "https://www.semanticscholar.org/paper/0cae1d060690b1c04b15b148589695f8bf961d94"
     },
     {
+        "title": "OTel: Open Telco AI Datasets, Benchmarks, and Models",
+        "author": "Farbod Tavakkoli, G. Diamos, K. Church, David Kanter, Mark Austin, Imtiaz Karim, Mirza Masfiqur Rahman, M\u00e9rouane Debbah, Zeinab Nezami, Ali Maatouk, Leandros Tassiulas, Rex Ying, Nick Sorros, L. Powell, N. Vasiloglou, Ashish Vaswani, Somanshu Singla, Adarsh Chaluvaraju",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/18fc339162145cae44ef368e2f0ee6316b56ed32"
+    },
+    {
         "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
         "author": "Ioannis Panitsas, Leandros Tassiulas",
         "venue": "arXiv.org",
@@ -113,7 +120,7 @@
     },
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
-        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, Gayane Vardoyan, Don Towsley, Leandros Tassiulas",
+        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, G. Vardoyan, Don Towsley, Leandros Tassiulas",
         "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
@@ -131,12 +138,5 @@
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/f59093d4676ef7d58fc81cd9a8934e74c0e2321c"
-    },
-    {
-        "title": "Towards In-Network Drift-Aware Traffic Classification",
-        "author": "Kai-Yi Zhang, Nancy Samaan, Ahmed Karmouch, Leandros Tassiulas",
-        "venue": "Conference on Network Function Virtualization and Software Defined Network",
-        "year": 2025,
-        "url": "https://www.semanticscholar.org/paper/1f25e8f149426bff01c969a3875a88bf9c39852c"
     }
 ]
