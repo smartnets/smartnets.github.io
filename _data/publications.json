@@ -14,13 +14,6 @@
         "url": "https://www.semanticscholar.org/paper/0cae1d060690b1c04b15b148589695f8bf961d94"
     },
     {
-        "title": "OTel: Open Telco AI Datasets, Benchmarks, and Models",
-        "author": "Farbod Tavakkoli, G. Diamos, K. Church, David Kanter, Mark Austin, Imtiaz Karim, Mirza Masfiqur Rahman, M\u00e9rouane Debbah, Zeinab Nezami, Ali Maatouk, Leandros Tassiulas, Rex Ying, Nick Sorros, L. Powell, N. Vasiloglou, Ashish Vaswani, Somanshu Singla, Adarsh Chaluvaraju",
-        "venue": "arXiv.org",
-        "year": 2026,
-        "url": "https://www.semanticscholar.org/paper/18fc339162145cae44ef368e2f0ee6316b56ed32"
-    },
-    {
         "title": "A Family of Open Time-Series Foundation Models for the Radio Access Network",
         "author": "Ioannis Panitsas, Leandros Tassiulas",
         "venue": "arXiv.org",
@@ -29,7 +22,7 @@
     },
     {
         "title": "LitBench: A Graph-Centric Large Language Model Benchmarking Tool For Literature Tasks",
-        "author": "Andreas A. Varvarigos, Ali Maatouk, Jiasheng Zhang, Ngoc Bui, Jia-Lin Chen, Leandros Tassiulas, Rex Ying",
+        "author": "Andreas A. Varvarigos, Ali Maatouk, Jia-Sheng Zhang, Ngoc Bui, Jia-Lin Chen, Leandros Tassiulas, Rex Ying",
         "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/24425a9c777d2b633f9678ee057f9aed68f00e20"
@@ -85,7 +78,7 @@
     },
     {
         "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
-        "author": "Jia-Lin Chen, Ao-Song Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yixuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
+        "author": "Jia-Lin Chen, Ao-Song Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yi-Xuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
@@ -96,6 +89,13 @@
         "venue": "Frontiers in Signal Processing",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/add077c993e58ab9f962dad11399a0c71526457d"
+    },
+    {
+        "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+        "author": "Xin Gao, Yi-Fan Yang, Xin Li, Pan Wang, Yan Li, Mu-Zhao Tian, Ming-Xi Cheng, Bei Liu, Kai Qiu, Qi Dai, Dong Chen, Yue Dong, Leandros Tassiulas, Rex Ying, Ji Li, Chong Luo",
+        "venue": "arXiv.org",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/bd7e98d3d92f3f3745c57ab1f7a6f242524de221"
     },
     {
         "title": "HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation",
@@ -120,7 +120,7 @@
     },
     {
         "title": "Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches",
-        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, G. Vardoyan, Don Towsley, Leandros Tassiulas",
+        "author": "Panagiotis Promponas, Leonardo Bacciottini, P. Polakos, G. Vardoyan, D. Towsley, Leandros Tassiulas",
         "venue": "2026 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e312362875e1fa1a95361370f96a5e0c78e22427"
