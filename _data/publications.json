@@ -1,7 +1,7 @@
 [
     {
         "title": "A Novel Framework for Fair Resource Allocation in RIS-Enabled Networks",
-        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, Leandros Tassiulas, Christos K. Liaskos",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, K. Votis, Leandros Tassiulas, Christos K. Liaskos",
         "venue": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/08fd95fd0478d84d90e78fc4327c4a02d3a179a9"
@@ -78,7 +78,7 @@
     },
     {
         "title": "Reasoning through Verifiable Forecast Actions: Consistency-Grounded RL for Financial LLMs",
-        "author": "Jia-Lin Chen, Ao-Song Feng, Harshit Verma, Siyi Gu, Haiwen Wang, Ali Maatouk, Yi-Xuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
+        "author": "Jia-Lin Chen, Ao-Song Feng, Harshit Verma, Siyi Gu, Hai-Wen Wang, Ali Maatouk, Yi-Xuan He, Yi-Feng Gao, Leandros Tassiulas, Rex Ying",
         "venue": "arXiv.org",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/698b76a609bf69a33d1e766580bf7bb9bd26923d"
@@ -106,7 +106,7 @@
     },
     {
         "title": "Modeling RIS for Multi-User Resource Allocation Under Pricing-Aware Policies",
-        "author": "Alexandros I. Papadopoulos, Antonios Lalas, Konstantinos Votis, Leandros Tassiulas, Christos K. Liaskos",
+        "author": "Alexandros I. Papadopoulos, Antonios Lalas, K. Votis, Leandros Tassiulas, Christos K. Liaskos",
         "venue": "IEEE Access",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/ce5d8f5d435dfb98fa7b09f29c45f2fea7ecad89"
@@ -114,7 +114,7 @@
     {
         "title": "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings",
         "author": "Yi-Dong Jiang, Jun-Rong Chen, Eftychia Makri, Jia-Lin Chen, Pei-Ye Li, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
-        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+        "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/d835a07d58fe4d878a103ee55a3f13e213d34244"
     },
@@ -127,8 +127,8 @@
     },
     {
         "title": "NumCache: KV Cache Compression and Retrieval for Financial Document QA",
-        "author": "Eftychia Makri, Peiwen Li, Yi-Dong Jiang, Jun-Rong Chen, Jia-Lin Chen, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
-        "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+        "author": "Eftychia Makri, Pei-Wen Li, Yi-Dong Jiang, Jun-Rong Chen, Jia-Lin Chen, Ali Maatouk, Leandros Tassiulas, Eliot Brenner, Bing Xiang, Rex Ying",
+        "venue": "Knowledge Discovery and Data Mining",
         "year": 2026,
         "url": "https://www.semanticscholar.org/paper/e7a5505dbbd4b122a935ceb69783ba56180c8b5d"
     },
